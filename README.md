@@ -30,15 +30,15 @@ let tonight = try await tvmaze.schedule(country: "US")   // [Episode], each with
 
 ## Screenshots
 
-Captured by CI from the example app, *Tonight*, on an Apple TV 4K and an iPhone simulator, with real data and images loaded live from the TVMaze API: the US schedule for Thursday, October 8, 2026, popular shows from the show index, Game of Thrones and Breaking Bad, and a search for "breaking".
+Captured by CI from the example app, *Tonight*, on an Apple TV 4K and an iPhone simulator, with real data and images loaded live from the TVMaze API: the US prime-time schedule for Thursday, October 8, 2026, popular shows from the show index, Game of Thrones and Breaking Bad, and a search for "breaking".
 
 | Home | Show |
 | :---: | :---: |
-| <img src="docs/screenshots/tv-home.png" alt="Apple TV: the most popular show on the October 8 US schedule as the hero over its background art, then a rail of shows airing that night" width="420"> | <img src="docs/screenshots/tv-show.png" alt="Apple TV: the Game of Thrones page with its poster, facts and summary, season buttons and a rail of episode cards with stills" width="420"> |
+| <img src="docs/screenshots/tv-home.png" alt="Apple TV: Georgie &amp; Mandy's First Marriage as the hero over its background art, airing at 8:00 PM on CBS, then the Airing tonight rail for Thursday, October 8 with Hell's Kitchen, The Traitors, The Real Housewives of Orange County, This Old House, All In with Chris Hayes and Anderson Cooper 360" width="420"> | <img src="docs/screenshots/tv-show.png" alt="Apple TV: the Game of Thrones page with its poster, rating 8.9, Sundays at 9:00 PM on HBO, the summary, Season 1 to 8 buttons with Season 8 focused, and its episodes Winterfell, A Knight of the Seven Kingdoms, The Long Night and The Last of the Starks with stills" width="420"> |
 
 | Search | Show | Schedule |
 | :---: | :---: | :---: |
-| <img src="docs/screenshots/iphone-search.png" alt="iPhone: search results for breaking with posters, years, channels, summaries and ratings" width="250"> | <img src="docs/screenshots/iphone-show.png" alt="iPhone: the Breaking Bad page with artwork, facts, the summary, a cast strip with headshots and the season's episodes" width="250"> | <img src="docs/screenshots/iphone-schedule.png" alt="iPhone: the October 8 US schedule grouped by start time with posters, episodes and channels" width="250"> |
+| <img src="docs/screenshots/iphone-search.png" alt="iPhone: search results for breaking: Breaking Bad, Breaking In, Breaking Bear, Breaking Pointe and Breaking Amish, with posters, years, channels, summaries and ratings" width="250"> | <img src="docs/screenshots/iphone-show.png" alt="iPhone: the Breaking Bad page with its background art and poster, Sundays at 10:00 PM on AMC, rating 9.2, the summary, and a cast strip with Bryan Cranston, Aaron Paul, Anna Gunn and RJ Mitte" width="250"> | <img src="docs/screenshots/iphone-schedule.png" alt="iPhone: the US prime-time schedule for Thursday, October 8 from 8:00 PM: Georgie &amp; Mandy's First Marriage, Hell's Kitchen, The Traitors, The Real Housewives of Orange County and This Old House, with posters, episodes, channels and ratings" width="250"> |
 
 ## Features
 

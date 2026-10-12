@@ -14,8 +14,8 @@ struct TonightTVApp: App {
         WindowGroup {
             TVRootView(scene: ScreenshotScene.current)
                 .environment(guide)
-                // Bundled artwork for the fixtures, the network for everything else.
-                .tvMazeImageLoader(DemoFixtures.imageLoader)
+                // Screenshot scenes count their image loads, to report ready once all are on screen.
+                .tvMazeImageLoader(ScreenshotScene.current == nil ? TVMazeImageLoader.urlSession : ScreenshotScene.imageLoader)
                 .preferredColorScheme(.dark)
         }
     }

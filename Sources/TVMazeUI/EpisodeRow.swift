@@ -96,7 +96,7 @@ public struct EpisodeRow: View {
         }
     }
 
-    /// "5. Interference", or "Special · Inside the Signal".
+    /// "1. Winter Is Coming", or "Special · The Last Watch".
     private var title: String {
         if let number = episode.number {
             return "\(number). \(episode.name)"

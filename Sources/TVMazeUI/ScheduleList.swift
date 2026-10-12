@@ -95,7 +95,7 @@ public struct ScheduleRow: View {
         .accessibilityElement(children: .combine)
     }
 
-    /// "S2 · E5 · Interference", or "Season 2 · 8 episodes".
+    /// "S1 · E1 · Winter Is Coming", or "Season 2 · 8 episodes".
     private var episodeLine: String {
         guard let first = entry.episodes.first else { return "" }
         if entry.episodes.count > 1 {
@@ -104,7 +104,7 @@ public struct ScheduleRow: View {
         return "\(first.shortCode) · \(first.name)"
     }
 
-    /// "Northwind · Drama".
+    /// "HBO · Drama".
     private var channelLine: String {
         [entry.show.channel?.name, entry.show.genres.first].compactMap { $0 }.joined(separator: " · ")
     }

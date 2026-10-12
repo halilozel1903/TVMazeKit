@@ -2,8 +2,7 @@ import SwiftUI
 import TVMazeKit
 import TVMazeUI
 
-/// Searches TVMaze as you type (debounced). With an empty field it suggests tonight's most
-/// popular shows.
+/// Searches TVMaze as you type (debounced). With an empty field it suggests popular shows.
 struct SearchScreen: View {
     let scene: ScreenshotScene?
     @Binding var path: [Int]
@@ -28,7 +27,7 @@ struct SearchScreen: View {
         NavigationStack(path: $path) {
             List {
                 if trimmedQuery.isEmpty {
-                    Section("Popular tonight") {
+                    Section("Popular on TVMaze") {
                         ForEach(guide.popular.prefix(8)) { show in
                             row(show)
                         }

@@ -8,7 +8,7 @@ import TVMazeKit
 ///
 /// ```swift
 /// Button { open(show) } label: {
-///     ShowCard(show: show, caption: "9:00 PM · Northwind")
+///     ShowCard(show: show, caption: "9:00 PM · HBO")
 /// }
 /// .buttonStyle(TVMazeCardButtonStyle())
 /// ```

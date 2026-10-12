@@ -25,7 +25,7 @@ public enum TVMazeFormat {
         String(format: "%.1f", value)
     }
 
-    /// The show's days, network-local time and channel: "Thu 9:00 PM · Northwind", or
+    /// The show's days, network-local time and channel: "Sun 9:00 PM · HBO", or
     /// "Mon–Fri 11:35 PM · KBX".
     public static func airing(_ show: Show, locale: Locale = .current) -> String? {
         var parts: [String] = []
@@ -43,7 +43,7 @@ public enum TVMazeFormat {
         return parts.isEmpty ? nil : parts.joined(separator: " · ")
     }
 
-    /// "2025 · Northwind · Drama".
+    /// "2011–2019 · HBO · Drama".
     public static func showLine(_ show: Show) -> String {
         var parts: [String] = []
         if let years = show.yearsText { parts.append(years) }

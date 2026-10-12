@@ -30,15 +30,15 @@ let tonight = try await tvmaze.schedule(country: "US")   // [Episode], each with
 
 ## Screenshots
 
-Captured by CI from the example app, *Tonight*, on an Apple TV 4K and an iPhone simulator. The shows, networks and people in these scenes are made up: the screenshot scenes load recorded JSON fixtures in TVMaze's exact shapes, and the posters are artwork generated for the demo. A normal launch uses the live API.
+Captured by CI from the example app, *Tonight*, on an Apple TV 4K and an iPhone simulator, with real data and images loaded live from the TVMaze API: the US schedule for Thursday, October 8, 2026, popular shows from the show index, Game of Thrones and Breaking Bad, and a search for "breaking".
 
 | Home | Show |
 | :---: | :---: |
-| <img src="docs/screenshots/tv-home.png" alt="Apple TV: the hero show The Long Static over an aurora backdrop with the time it airs tonight, rating and summary, and a rail of shows airing tonight below" width="420"> | <img src="docs/screenshots/tv-show.png" alt="Apple TV: the page of The Long Static with its poster, facts and summary, season buttons with Season 2 focused, and a rail of episode cards with stills" width="420"> |
+| <img src="docs/screenshots/tv-home.png" alt="Apple TV: the most popular show on the October 8 US schedule as the hero over its background art, then a rail of shows airing that night" width="420"> | <img src="docs/screenshots/tv-show.png" alt="Apple TV: the Game of Thrones page with its poster, facts and summary, season buttons and a rail of episode cards with stills" width="420"> |
 
 | Search | Show | Schedule |
 | :---: | :---: | :---: |
-| <img src="docs/screenshots/iphone-search.png" alt="iPhone: search results for night with posters, years, channels, summaries and ratings" width="250"> | <img src="docs/screenshots/iphone-show.png" alt="iPhone: a show page with artwork, facts, the summary, a cast strip with headshots and the season's episodes" width="250"> | <img src="docs/screenshots/iphone-schedule.png" alt="iPhone: tonight's US schedule grouped by start time with posters, episodes and channels" width="250"> |
+| <img src="docs/screenshots/iphone-search.png" alt="iPhone: search results for breaking with posters, years, channels, summaries and ratings" width="250"> | <img src="docs/screenshots/iphone-show.png" alt="iPhone: the Breaking Bad page with artwork, facts, the summary, a cast strip with headshots and the season's episodes" width="250"> | <img src="docs/screenshots/iphone-schedule.png" alt="iPhone: the October 8 US schedule grouped by start time with posters, episodes and channels" width="250"> |
 
 ## Features
 
@@ -247,7 +247,7 @@ import TVMazeUI
 
 // A poster card. On Apple TV, the button style draws the focus effect.
 NavigationLink(value: show.id) {
-    ShowCard(show: show, caption: "9:00 PM · Northwind")
+    ShowCard(show: show, caption: "9:00 PM · HBO")
 }
 .buttonStyle(TVMazeCardButtonStyle())
 
@@ -292,13 +292,13 @@ cd Example && xcodegen generate
 open TVMazeKitDemo.xcodeproj
 ```
 
-Run `TonightTV` on an Apple TV simulator and `TonightPhone` on an iPhone. Normal launches use the live API. Launch with `-screenshot home|show` (Apple TV) or `-screenshot search|show|schedule` (iPhone) to open a fixed scene from the recorded fixtures, as CI does for the screenshots above.
+Run `TonightTV` on an Apple TV simulator and `TonightPhone` on an iPhone. The app always uses the live API. Launch with `-screenshot home|show` (Apple TV) or `-screenshot search|show|schedule` (iPhone) to open a fixed scene (a fixed day's schedule, a fixed show or query), as CI does for the screenshots above.
 
 ## Data attribution
 
 **Data provided by [TVmaze.com](https://www.tvmaze.com).** TVMaze's data is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/): if you show it in your app, credit TVmaze.com with a link back, and share what you build on the data under the same license. `TVMazeAttribution.text` and `TVMazeAttributionView` give you the credit line. TVMazeKit is an unofficial client and is not affiliated with TVMaze.
 
-The fixtures in this repository describe made-up shows, networks and people; their posters and photos are abstract artwork generated for the demo.
+The JSON fixtures used by the unit tests describe made-up shows, networks and people in TVMaze's shapes. The screenshots and the example app show real TVMaze data.
 
 ## Requirements
 

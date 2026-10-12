@@ -2,8 +2,8 @@ import Foundation
 import Observation
 import TVMazeKit
 
-/// The app's data: tonight's schedule, streaming releases, a featured show and show details,
-/// all from one `TVMazeClient`.
+/// The app's data: tonight's schedule, streaming releases, popular shows, a featured show and
+/// show details, all from one `TVMazeClient` on the live API.
 @Observable
 @MainActor
 final class Guide {
@@ -25,18 +25,25 @@ final class Guide {
     private(set) var featured: Show?
     private(set) var phase: Phase = .idle
 
-    private var detailCache: [Int: Show] = [:]
+    /// The most popular shows of TVMaze's show index.
+    private(set) var popular: [Show] = []
 
-    init(client: TVMazeClient, country: String = "US", date: CalendarDate? = nil) {
+    private var detailCache: [Int: Show] = [:]
+    /// How many times a request is tried before the error is shown.
+    private let attempts: Int
+
+    init(client: TVMazeClient, country: String = "US", date: CalendarDate? = nil, attempts: Int = 1) {
         self.client = client
         self.country = country
         self.date = date
+        self.attempts = max(1, attempts)
     }
 
-    /// A guide on the live API, or on the recorded fixtures for a screenshot scene.
+    /// A guide on the live API. Screenshot scenes show a fixed day and retry failed requests a few
+    /// times, since a capture must not show an error.
     static func make(for scene: ScreenshotScene?) -> Guide {
         if scene != nil {
-            return Guide(client: DemoFixtures.makeClient(), date: ScreenshotScene.date)
+            return Guide(client: .shared, date: ScreenshotScene.date, attempts: 4)
         }
         return Guide(client: .shared)
     }
@@ -48,7 +55,8 @@ final class Guide {
 
     // MARK: - Home
 
-    /// Loads tonight's schedule, today's streaming releases and the featured show's artwork.
+    /// Loads tonight's schedule, today's streaming releases, the most popular shows of the show
+    /// index and the featured show's artwork.
     func loadHome() async {
         guard phase != .loading else { return }
         phase = .loading
@@ -57,14 +65,22 @@ final class Guide {
             let client = self.client
             let country = self.country
             let date = self.date
-            async let tv = client.schedule(country: country, date: date)
-            async let web = client.webSchedule(date: date)
-            let (tvEpisodes, webEpisodes) = try await (tv, web)
+            let (tvEpisodes, webEpisodes, index) = try await Self.retrying(attempts: attempts) {
+                async let tv = client.schedule(country: country, date: date)
+                async let web = client.webSchedule(date: date)
+                async let shows = client.shows(page: 0)
+                return try await (tv, web, shows)
+            }
             tonight = tvEpisodes
             streaming = webEpisodes
-            if let pick = popular.first(where: { $0.image != nil && !$0.isStreaming }) ?? popular.first {
+            popular = Array(index.filter { $0.image != nil }.sorted { ($0.weight ?? 0) > ($1.weight ?? 0) }.prefix(30))
+            let onTonight = tonightPopular
+            if let pick = onTonight.first(where: { $0.image != nil && !$0.isStreaming }) ?? onTonight.first {
                 // The images embed has the background for the hero.
-                featured = (try? await client.show(id: pick.id, embedding: [.images])) ?? pick
+                let pickID = pick.id
+                featured = (try? await Self.retrying(attempts: attempts) {
+                    try await client.show(id: pickID, embedding: [.images])
+                }) ?? pick
             }
             phase = .loaded
         } catch {
@@ -73,7 +89,7 @@ final class Guide {
     }
 
     /// Every show on tonight's TV and streaming schedule, most popular first.
-    var popular: [Show] {
+    var tonightPopular: [Show] {
         var seen = Set<Int>()
         let all = (tonight.uniqueShows + streaming.uniqueShows).filter { seen.insert($0.id).inserted }
         return all.sorted { ($0.weight ?? 0) > ($1.weight ?? 0) }
@@ -108,14 +124,38 @@ final class Guide {
         if let cached = detailCache[id] {
             return cached
         }
-        let show = try await client.show(id: id, embedding: [.cast, .seasons, .episodes, .images])
+        let client = self.client
+        let show = try await Self.retrying(attempts: attempts) {
+            try await client.show(id: id, embedding: [.cast, .seasons, .episodes, .images])
+        }
         detailCache[id] = show
         return show
     }
 
     /// Search results for a query.
     func search(_ query: String) async throws -> [ShowSearchResult] {
-        try await client.searchShows(query)
+        let client = self.client
+        return try await Self.retrying(attempts: attempts) {
+            try await client.searchShows(query)
+        }
+    }
+
+    /// Runs `operation`, trying again after a pause when it fails, up to `attempts` times.
+    private nonisolated static func retrying<T: Sendable>(
+        attempts: Int,
+        _ operation: @Sendable () async throws -> T
+    ) async throws -> T {
+        var attempt = 1
+        while true {
+            do {
+                return try await operation()
+            } catch {
+                guard attempt < attempts, !Task.isCancelled else { throw error }
+                print("Request failed (attempt \(attempt) of \(attempts)): \(error)")
+                try await Task.sleep(for: .seconds(Double(attempt) * 2))
+                attempt += 1
+            }
+        }
     }
 
     /// Reloads the schedule for another country.

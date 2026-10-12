@@ -20,7 +20,7 @@ enum Theme {
         return day.formatted(style)
     }
 
-    /// "Thursdays at 9:00 PM on Northwind", or "Streaming on Lumen+".
+    /// "Sundays at 9:00 PM on HBO", or "Streaming on Netflix".
     static func airing(_ show: Show) -> String? {
         let channel = show.channel?.name
         if show.isStreaming {

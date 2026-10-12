@@ -44,7 +44,7 @@ struct TVHomeView: View {
                     }
                 }
 
-                TVRail(title: "Popular", subtitle: "On TV and streaming today") {
+                TVRail(title: "Popular", subtitle: "On TVMaze") {
                     ForEach(guide.popular) { show in
                         card(show, caption: nil)
                     }
@@ -74,7 +74,7 @@ struct TVHomeView: View {
         .buttonStyle(TVMazeCardButtonStyle())
     }
 
-    /// "9:00 PM · Northwind".
+    /// "9:00 PM · NBC".
     private func caption(for entry: ScheduleEntry) -> String {
         let time = entry.episode?.airTime?.formatted() ?? "Today"
         guard let channel = entry.show.channel?.name else { return time }
@@ -139,7 +139,7 @@ struct TVHero: View {
         .clipped()
     }
 
-    /// "Tonight 9:00 PM on Northwind · S2 · E5 Interference".
+    /// "Tonight 9:00 PM on NBC · S1 · E1 Pilot".
     private func tonightLine(_ episode: Episode) -> String {
         var line = "Tonight"
         if let time = episode.airTime { line += " " + time.formatted() }

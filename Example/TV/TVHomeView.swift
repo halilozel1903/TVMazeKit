@@ -90,16 +90,16 @@ struct TVHero: View {
     var body: some View {
         ZStack(alignment: .bottomLeading) {
             TVMazeImage(url: show.backgroundImageURL ?? show.image?.original, title: show.name)
+            // Opaque behind the text, so titles printed on the artwork don't show through it.
             LinearGradient(
-                // Dark enough behind the text that titles printed on the artwork don't show through.
-                colors: [
-                    Theme.background.opacity(0.97),
-                    Theme.background.opacity(0.9),
-                    Theme.background.opacity(0.45),
-                    .clear,
+                stops: [
+                    .init(color: Theme.background, location: 0),
+                    .init(color: Theme.background.opacity(0.97), location: 0.5),
+                    .init(color: Theme.background.opacity(0.6), location: 0.62),
+                    .init(color: .clear, location: 0.85),
                 ],
                 startPoint: .leading,
-                endPoint: UnitPoint(x: 0.8, y: 0.5)
+                endPoint: .trailing
             )
             LinearGradient(
                 colors: [Theme.background, .clear],

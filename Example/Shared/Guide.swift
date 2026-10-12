@@ -88,10 +88,10 @@ final class Guide {
         }
     }
 
-    /// Tonight's TV episodes from 6 PM (network-local time), or the whole day when none air that
-    /// late. The day's schedule starts at midnight with overnight news and morning shows.
+    /// Tonight's prime-time TV episodes, from 8 PM (network-local time), or the whole day when none
+    /// air that late. The day's schedule starts at midnight with overnight news and morning shows.
     var tonightEvening: [Episode] {
-        let evening = tonight.filter { ($0.airTime?.hour ?? 0) >= 18 }
+        let evening = tonight.filter { ($0.airTime?.hour ?? 0) >= 20 }
         return evening.isEmpty ? tonight : evening
     }
 

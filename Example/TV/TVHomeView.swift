@@ -39,7 +39,7 @@ struct TVHomeView: View {
                 TVHero(show: featured, episode: guide.tonightEpisode(of: featured))
 
                 TVRail(title: "Airing tonight", subtitle: Theme.longDay(guide.day)) {
-                    ForEach(guide.tonight.scheduleSlots().flatMap(\.entries)) { entry in
+                    ForEach(guide.tonightEvening.scheduleSlots().flatMap(\.entries)) { entry in
                         card(entry.show, caption: caption(for: entry))
                     }
                 }
@@ -91,9 +91,15 @@ struct TVHero: View {
         ZStack(alignment: .bottomLeading) {
             TVMazeImage(url: show.backgroundImageURL ?? show.image?.original, title: show.name)
             LinearGradient(
-                colors: [Theme.background.opacity(0.95), Theme.background.opacity(0.55), .clear],
+                // Dark enough behind the text that titles printed on the artwork don't show through.
+                colors: [
+                    Theme.background.opacity(0.97),
+                    Theme.background.opacity(0.9),
+                    Theme.background.opacity(0.45),
+                    .clear,
+                ],
                 startPoint: .leading,
-                endPoint: UnitPoint(x: 0.75, y: 0.5)
+                endPoint: UnitPoint(x: 0.8, y: 0.5)
             )
             LinearGradient(
                 colors: [Theme.background, .clear],

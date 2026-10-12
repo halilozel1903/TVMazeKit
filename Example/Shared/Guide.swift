@@ -88,10 +88,17 @@ final class Guide {
         }
     }
 
+    /// Tonight's TV episodes from 6 PM (network-local time), or the whole day when none air that
+    /// late. The day's schedule starts at midnight with overnight news and morning shows.
+    var tonightEvening: [Episode] {
+        let evening = tonight.filter { ($0.airTime?.hour ?? 0) >= 18 }
+        return evening.isEmpty ? tonight : evening
+    }
+
     /// Every show on tonight's TV and streaming schedule, most popular first.
     var tonightPopular: [Show] {
         var seen = Set<Int>()
-        let all = (tonight.uniqueShows + streaming.uniqueShows).filter { seen.insert($0.id).inserted }
+        let all = (tonightEvening.uniqueShows + streaming.uniqueShows).filter { seen.insert($0.id).inserted }
         return all.sorted { ($0.weight ?? 0) > ($1.weight ?? 0) }
     }
 

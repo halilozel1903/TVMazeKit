@@ -52,6 +52,8 @@ struct SearchScreen: View {
             .scrollContentBackground(.hidden)
             .background(Theme.background)
             .navigationTitle("Search")
+            // iOS 26 leaves the large title out with a pinned bar background; keep it inline.
+            .navigationBarTitleDisplayMode(.inline)
             .tonightNavigationBar()
             .searchable(text: $query, placement: .navigationBarDrawer(displayMode: .always), prompt: "Shows on TVMaze")
             .autocorrectionDisabled()

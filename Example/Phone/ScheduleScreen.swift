@@ -39,7 +39,7 @@ struct ScheduleScreen: View {
                         }
                     }
                 case .loaded:
-                    ScheduleList(episodes: kind == .tv ? guide.tonight : guide.streaming, untimedTitle: "Out today") { entry in
+                    ScheduleList(episodes: kind == .tv ? guide.tonightEvening : guide.streaming, untimedTitle: "Out today") { entry in
                         path.append(entry.show.id)
                     }
                     .listStyle(.plain)
@@ -67,6 +67,8 @@ struct ScheduleScreen: View {
                 .background(Theme.background)
             }
             .navigationTitle("Tonight")
+            // iOS 26 leaves the large title out with a pinned bar background; keep it inline.
+            .navigationBarTitleDisplayMode(.inline)
             .tonightNavigationBar()
             .toolbar {
                 ToolbarItem(placement: .topBarTrailing) {

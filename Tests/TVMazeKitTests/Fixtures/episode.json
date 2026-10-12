@@ -1,0 +1,29 @@
+{
+  "id": 100113,
+  "url": "https://www.tvmaze.com/episodes/100113/the-long-static-2x05-interference",
+  "name": "Interference",
+  "season": 2,
+  "number": 5,
+  "type": "regular",
+  "airdate": "2026-10-08",
+  "airtime": "21:00",
+  "airstamp": "2026-10-09T01:00:00+00:00",
+  "runtime": 52,
+  "rating": {
+    "average": null
+  },
+  "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/500/1000113.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/500/1000113.jpg"
+  },
+  "summary": "<p>Interference from the storm scrambles every channel except one, and Maren has to choose who to trust with what it says.</p>",
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/episodes/100113"
+    },
+    "show": {
+      "href": "https://api.tvmaze.com/shows/1001",
+      "name": "The Long Static"
+    }
+  }
+}

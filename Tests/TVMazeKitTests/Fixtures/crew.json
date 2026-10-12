@@ -1,0 +1,106 @@
+[
+  {
+    "type": "Creator",
+    "person": {
+      "id": 2007,
+      "url": "https://www.tvmaze.com/people/2007/nadia-ferreira",
+      "name": "Nadia Ferreira",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": "1962-07-28",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/451/902007.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/451/902007.jpg"
+      },
+      "updated": 1790002007,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/people/2007"
+        }
+      }
+    }
+  },
+  {
+    "type": "Executive Producer",
+    "person": {
+      "id": 2008,
+      "url": "https://www.tvmaze.com/people/2008/samuel-okafor",
+      "name": "Samuel Okafor",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1992-07-04",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/451/902008.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/451/902008.jpg"
+      },
+      "updated": 1790002008,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/people/2008"
+        }
+      }
+    }
+  },
+  {
+    "type": "Executive Producer",
+    "person": {
+      "id": 2007,
+      "url": "https://www.tvmaze.com/people/2007/nadia-ferreira",
+      "name": "Nadia Ferreira",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": "1962-07-28",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/451/902007.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/451/902007.jpg"
+      },
+      "updated": 1790002007,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/people/2007"
+        }
+      }
+    }
+  },
+  {
+    "type": "Composer",
+    "person": {
+      "id": 2009,
+      "url": "https://www.tvmaze.com/people/2009/eli-strand",
+      "name": "Eli Strand",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1998-11-20",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/451/902009.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/451/902009.jpg"
+      },
+      "updated": 1790002009,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/people/2009"
+        }
+      }
+    }
+  }
+]

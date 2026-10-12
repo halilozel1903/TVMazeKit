@@ -1,0 +1,166 @@
+[
+  {
+    "self": false,
+    "voice": false,
+    "_links": {
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1001",
+        "name": "The Long Static"
+      },
+      "character": {
+        "href": "https://api.tvmaze.com/characters/3001",
+        "name": "Maren Holt"
+      }
+    },
+    "_embedded": {
+      "show": {
+        "id": 1001,
+        "url": "https://www.tvmaze.com/shows/1001/the-long-static",
+        "name": "The Long Static",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+          "Drama",
+          "Science-Fiction",
+          "Mystery"
+        ],
+        "status": "Running",
+        "runtime": 52,
+        "averageRuntime": 52,
+        "premiered": "2025-01-16",
+        "ended": null,
+        "officialSite": "https://the-long-static.example/",
+        "schedule": {
+          "time": "21:00",
+          "days": [
+            "Thursday"
+          ]
+        },
+        "rating": {
+          "average": 8.6
+        },
+        "weight": 97,
+        "network": {
+          "id": 9001,
+          "name": "Northwind",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "officialSite": "https://northwind.example/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 498101,
+          "imdb": "tt9900101"
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/450/901001.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/450/901001.jpg"
+        },
+        "summary": "<p><b>The Long Static</b> follows the night shift at Halvard Station, a polar research outpost where radio operator Maren Holt hears a voice on a frequency nobody has used in forty years. As a storm cuts the station off from the mainland, the crew has to decide whether the signal is a warning &mdash; or an invitation.</p>",
+        "updated": 1791201001,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/1001"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/100112",
+            "name": "The Relay"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/100113",
+            "name": "Interference"
+          }
+        }
+      }
+    }
+  },
+  {
+    "self": false,
+    "voice": true,
+    "_links": {
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1009",
+        "name": "Orbit Academy"
+      },
+      "character": {
+        "href": "https://api.tvmaze.com/characters/3999",
+        "name": "Commander Lyra"
+      }
+    },
+    "_embedded": {
+      "show": {
+        "id": 1009,
+        "url": "https://www.tvmaze.com/shows/1009/orbit-academy",
+        "name": "Orbit Academy",
+        "type": "Animation",
+        "language": "English",
+        "genres": [
+          "Children",
+          "Science-Fiction",
+          "Family"
+        ],
+        "status": "Running",
+        "runtime": 22,
+        "averageRuntime": 22,
+        "premiered": "2025-03-03",
+        "ended": null,
+        "officialSite": "https://orbit-academy.example/",
+        "schedule": {
+          "time": "17:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ]
+        },
+        "rating": {
+          "average": 7.7
+        },
+        "weight": 70,
+        "network": {
+          "id": 9003,
+          "name": "Atlas Channel",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "officialSite": "https://atlas.example/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 498109,
+          "imdb": "tt9900109"
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/450/901009.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/450/901009.jpg"
+        },
+        "summary": "<p>Cadets at a school on the far side of the Moon learn to fly, fix and occasionally lose spaceships.</p>",
+        "updated": 1791201009,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/1009"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/100945",
+            "name": "Low Tide"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/100946",
+            "name": "Fault Lines"
+          }
+        }
+      }
+    }
+  }
+]

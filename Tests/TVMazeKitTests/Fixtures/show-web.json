@@ -1,0 +1,58 @@
+{
+  "id": 1003,
+  "url": "https://www.tvmaze.com/shows/1003/ctrl-alt-delight",
+  "name": "Ctrl+Alt+Delight",
+  "type": "Scripted",
+  "language": "English",
+  "genres": [
+    "Comedy"
+  ],
+  "status": "Running",
+  "runtime": 28,
+  "averageRuntime": 28,
+  "premiered": "2025-10-09",
+  "ended": null,
+  "officialSite": "https://ctrl-alt-delight.example/",
+  "schedule": {
+    "time": "",
+    "days": [
+      "Thursday"
+    ]
+  },
+  "rating": {
+    "average": 7.9
+  },
+  "weight": 91,
+  "network": null,
+  "webChannel": {
+    "id": 9101,
+    "name": "Lumen+",
+    "country": null,
+    "officialSite": "https://lumen.example/"
+  },
+  "dvdCountry": null,
+  "externals": {
+    "tvrage": null,
+    "thetvdb": 498103,
+    "imdb": "tt9900103"
+  },
+  "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/450/901003.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/450/901003.jpg"
+  },
+  "summary": "<p>A help desk of five misfits keeps a struggling games studio online, one catastrophic patch at a time.</p><p><i>Ctrl+Alt+Delight</i> is Lumen+&#39;s first original comedy.</p>",
+  "updated": 1791201003,
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/shows/1003"
+    },
+    "previousepisode": {
+      "href": "https://api.tvmaze.com/episodes/100308",
+      "name": "Ghost Notes"
+    },
+    "nextepisode": {
+      "href": "https://api.tvmaze.com/episodes/100309",
+      "name": "Full Circle"
+    }
+  }
+}

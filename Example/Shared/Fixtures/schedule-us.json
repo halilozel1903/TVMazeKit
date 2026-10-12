@@ -1,0 +1,1173 @@
+[
+  {
+    "id": 100946,
+    "url": "https://www.tvmaze.com/episodes/100946/orbit-academy-2x20-fault-lines",
+    "name": "Fault Lines",
+    "season": 2,
+    "number": 20,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "17:00",
+    "airstamp": "2026-10-08T21:00:00+00:00",
+    "runtime": 22,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>A routine day turns into anything but, and Lou has to make a call that changes everything.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/100946"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1009",
+        "name": "Orbit Academy"
+      }
+    },
+    "show": {
+      "id": 1009,
+      "url": "https://www.tvmaze.com/shows/1009/orbit-academy",
+      "name": "Orbit Academy",
+      "type": "Animation",
+      "language": "English",
+      "genres": [
+        "Children",
+        "Science-Fiction",
+        "Family"
+      ],
+      "status": "Running",
+      "runtime": 22,
+      "averageRuntime": 22,
+      "premiered": "2025-03-03",
+      "ended": null,
+      "officialSite": "https://orbit-academy.example/",
+      "schedule": {
+        "time": "17:00",
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      },
+      "rating": {
+        "average": 7.7
+      },
+      "weight": 70,
+      "network": {
+        "id": 9003,
+        "name": "Atlas Channel",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://atlas.example/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 498109,
+        "imdb": "tt9900109"
+      },
+      "image": {
+        "medium": "bundle://artwork/poster-1009.jpg",
+        "original": "bundle://artwork/poster-1009.jpg"
+      },
+      "summary": "<p>Cadets at a school on the far side of the Moon learn to fly, fix and occasionally lose spaceships.</p>",
+      "updated": 1791201009,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/1009"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/100945",
+          "name": "Low Tide"
+        },
+        "nextepisode": {
+          "href": "https://api.tvmaze.com/episodes/100946",
+          "name": "Fault Lines"
+        }
+      }
+    }
+  },
+  {
+    "id": 101106,
+    "url": "https://www.tvmaze.com/episodes/101106/wild-coastlines-1x06-signal-fire",
+    "name": "Signal Fire",
+    "season": 1,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "19:00",
+    "airstamp": "2026-10-08T23:00:00+00:00",
+    "runtime": 50,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>Sam gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/101106"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1011",
+        "name": "Wild Coastlines"
+      }
+    },
+    "show": {
+      "id": 1011,
+      "url": "https://www.tvmaze.com/shows/1011/wild-coastlines",
+      "name": "Wild Coastlines",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [
+        "Nature",
+        "Travel"
+      ],
+      "status": "Running",
+      "runtime": 50,
+      "averageRuntime": 50,
+      "premiered": "2026-09-03",
+      "ended": null,
+      "officialSite": "https://wild-coastlines.example/",
+      "schedule": {
+        "time": "19:00",
+        "days": [
+          "Thursday"
+        ]
+      },
+      "rating": {
+        "average": 8.5
+      },
+      "weight": 76,
+      "network": {
+        "id": 9003,
+        "name": "Atlas Channel",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://atlas.example/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 498111,
+        "imdb": "tt9900111"
+      },
+      "image": {
+        "medium": "bundle://artwork/poster-1011.jpg",
+        "original": "bundle://artwork/poster-1011.jpg"
+      },
+      "summary": "<p>A year on the world's most restless shores, from tidal pools to storm-carved cliffs.</p>",
+      "updated": 1791201011,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/1011"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/101105",
+          "name": "Small Hours"
+        },
+        "nextepisode": {
+          "href": "https://api.tvmaze.com/episodes/101106",
+          "name": "Signal Fire"
+        }
+      }
+    }
+  },
+  {
+    "id": 100230,
+    "url": "https://www.tvmaze.com/episodes/100230/harbor-lights-3x06-undertow",
+    "name": "Undertow",
+    "season": 3,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "20:00",
+    "airstamp": "2026-10-09T00:00:00+00:00",
+    "runtime": 44,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>Wes gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/100230"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1002",
+        "name": "Harbor Lights"
+      }
+    },
+    "show": {
+      "id": 1002,
+      "url": "https://www.tvmaze.com/shows/1002/harbor-lights",
+      "name": "Harbor Lights",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "status": "Running",
+      "runtime": 44,
+      "averageRuntime": 44,
+      "premiered": "2024-09-19",
+      "ended": null,
+      "officialSite": "https://harbor-lights.example/",
+      "schedule": {
+        "time": "20:00",
+        "days": [
+          "Thursday"
+        ]
+      },
+      "rating": {
+        "average": 7.4
+      },
+      "weight": 88,
+      "network": {
+        "id": 9002,
+        "name": "Meridian",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://meridian.example/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 498102,
+        "imdb": "tt9900102"
+      },
+      "image": {
+        "medium": "bundle://artwork/poster-1002.jpg",
+        "original": "bundle://artwork/poster-1002.jpg"
+      },
+      "summary": "<p>Three generations of the Calder family run the last ferry line on a fog-bound island, and every crossing brings someone back who was supposed to stay away.</p>",
+      "updated": 1791201002,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/1002"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/100229",
+          "name": "Night Moves"
+        },
+        "nextepisode": {
+          "href": "https://api.tvmaze.com/episodes/100230",
+          "name": "Undertow"
+        }
+      }
+    }
+  },
+  {
+    "id": 100404,
+    "url": "https://www.tvmaze.com/episodes/100404/deep-field-1x04-the-audit",
+    "name": "The Audit",
+    "season": 1,
+    "number": 4,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "20:00",
+    "airstamp": "2026-10-09T00:00:00+00:00",
+    "runtime": 50,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>Abe gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/100404"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1004",
+        "name": "Deep Field"
+      }
+    },
+    "show": {
+      "id": 1004,
+      "url": "https://www.tvmaze.com/shows/1004/deep-field",
+      "name": "Deep Field",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [
+        "History",
+        "Nature"
+      ],
+      "status": "Running",
+      "runtime": 50,
+      "averageRuntime": 50,
+      "premiered": "2026-09-17",
+      "ended": null,
+      "officialSite": "https://deep-field.example/",
+      "schedule": {
+        "time": "20:00",
+        "days": [
+          "Thursday"
+        ]
+      },
+      "rating": {
+        "average": 8.2
+      },
+      "weight": 79,
+      "network": {
+        "id": 9003,
+        "name": "Atlas Channel",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://atlas.example/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 498104,
+        "imdb": "tt9900104"
+      },
+      "image": {
+        "medium": "bundle://artwork/poster-1004.jpg",
+        "original": "bundle://artwork/poster-1004.jpg"
+      },
+      "summary": "<p>Astronomers, engineers and the telescopes they built take us to the edge of the observable universe.</p>",
+      "updated": 1791201004,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/1004"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/100403",
+          "name": "The Deposition"
+        },
+        "nextepisode": {
+          "href": "https://api.tvmaze.com/episodes/100404",
+          "name": "The Audit"
+        }
+      }
+    }
+  },
+  {
+    "id": 101320,
+    "url": "https://www.tvmaze.com/episodes/101320/paper-moons-2x04-the-audit",
+    "name": "The Audit",
+    "season": 2,
+    "number": 4,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "20:30",
+    "airstamp": "2026-10-09T00:30:00+00:00",
+    "runtime": 24,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>A routine day turns into anything but, and Mara has to make a call that changes everything.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/101320"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1013",
+        "name": "Paper Moons"
+      }
+    },
+    "show": {
+      "id": 1013,
+      "url": "https://www.tvmaze.com/shows/1013/paper-moons",
+      "name": "Paper Moons",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "status": "Running",
+      "runtime": 24,
+      "averageRuntime": 24,
+      "premiered": "2025-09-18",
+      "ended": null,
+      "officialSite": "https://paper-moons.example/",
+      "schedule": {
+        "time": "20:30",
+        "days": [
+          "Thursday"
+        ]
+      },
+      "rating": {
+        "average": 7.6
+      },
+      "weight": 83,
+      "network": {
+        "id": 9002,
+        "name": "Meridian",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://meridian.example/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 498113,
+        "imdb": "tt9900113"
+      },
+      "image": {
+        "medium": "bundle://artwork/poster-1013.jpg",
+        "original": "bundle://artwork/poster-1013.jpg"
+      },
+      "summary": "<p>Two rival stationery shops share a wall, a landlord and, eventually, a lot more.</p>",
+      "updated": 1791201013,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/1013"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/101319",
+          "name": "The Deposition"
+        },
+        "nextepisode": {
+          "href": "https://api.tvmaze.com/episodes/101320",
+          "name": "The Audit"
+        }
+      }
+    }
+  },
+  {
+    "id": 101407,
+    "url": "https://www.tvmaze.com/episodes/101407/frontier-signal-1x07-low-tide",
+    "name": "Low Tide",
+    "season": 1,
+    "number": 7,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "20:30",
+    "airstamp": "2026-10-09T00:30:00+00:00",
+    "runtime": 50,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>A routine day turns into anything but, and Pia has to make a call that changes everything.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/101407"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1014",
+        "name": "Frontier Signal"
+      }
+    },
+    "show": {
+      "id": 1014,
+      "url": "https://www.tvmaze.com/shows/1014/frontier-signal",
+      "name": "Frontier Signal",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Western",
+        "Science-Fiction"
+      ],
+      "status": "Running",
+      "runtime": 50,
+      "averageRuntime": 50,
+      "premiered": "2026-08-27",
+      "ended": null,
+      "officialSite": "https://frontier-signal.example/",
+      "schedule": {
+        "time": "20:30",
+        "days": [
+          "Thursday"
+        ]
+      },
+      "rating": {
+        "average": 7.5
+      },
+      "weight": 74,
+      "network": {
+        "id": 9003,
+        "name": "Atlas Channel",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://atlas.example/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 498114,
+        "imdb": "tt9900114"
+      },
+      "image": {
+        "medium": "bundle://artwork/poster-1014.jpg",
+        "original": "bundle://artwork/poster-1014.jpg"
+      },
+      "summary": "<p>Settlers on a dusty colony world keep the peace with a sheriff, a radio and very little water.</p>",
+      "updated": 1791201014,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/1014"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/101406",
+          "name": "Outliers"
+        },
+        "nextepisode": {
+          "href": "https://api.tvmaze.com/episodes/101407",
+          "name": "Low Tide"
+        }
+      }
+    }
+  },
+  {
+    "id": 100113,
+    "url": "https://www.tvmaze.com/episodes/100113/the-long-static-2x05-interference",
+    "name": "Interference",
+    "season": 2,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "21:00",
+    "airstamp": "2026-10-09T01:00:00+00:00",
+    "runtime": 52,
+    "rating": {
+      "average": null
+    },
+    "image": {
+      "medium": "bundle://artwork/still-100113.jpg",
+      "original": "bundle://artwork/still-100113.jpg"
+    },
+    "summary": "<p>Interference from the storm scrambles every channel except one, and Maren has to choose who to trust with what it says.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/100113"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1001",
+        "name": "The Long Static"
+      }
+    },
+    "show": {
+      "id": 1001,
+      "url": "https://www.tvmaze.com/shows/1001/the-long-static",
+      "name": "The Long Static",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Drama",
+        "Science-Fiction",
+        "Mystery"
+      ],
+      "status": "Running",
+      "runtime": 52,
+      "averageRuntime": 52,
+      "premiered": "2025-01-16",
+      "ended": null,
+      "officialSite": "https://the-long-static.example/",
+      "schedule": {
+        "time": "21:00",
+        "days": [
+          "Thursday"
+        ]
+      },
+      "rating": {
+        "average": 8.6
+      },
+      "weight": 97,
+      "network": {
+        "id": 9001,
+        "name": "Northwind",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://northwind.example/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 498101,
+        "imdb": "tt9900101"
+      },
+      "image": {
+        "medium": "bundle://artwork/poster-1001.jpg",
+        "original": "bundle://artwork/poster-1001.jpg"
+      },
+      "summary": "<p><b>The Long Static</b> follows the night shift at Halvard Station, a polar research outpost where radio operator Maren Holt hears a voice on a frequency nobody has used in forty years. As a storm cuts the station off from the mainland, the crew has to decide whether the signal is a warning &mdash; or an invitation.</p>",
+      "updated": 1791201001,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/1001"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/100112",
+          "name": "The Relay"
+        },
+        "nextepisode": {
+          "href": "https://api.tvmaze.com/episodes/100113",
+          "name": "Interference"
+        }
+      }
+    }
+  },
+  {
+    "id": 100805,
+    "url": "https://www.tvmaze.com/episodes/100805/glasshouse-1x05-the-deposition",
+    "name": "The Deposition",
+    "season": 1,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "21:00",
+    "airstamp": "2026-10-09T01:00:00+00:00",
+    "runtime": 48,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>Old loyalties are tested when Leo finds out what really happened that night.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/100805"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1008",
+        "name": "Glasshouse"
+      }
+    },
+    "show": {
+      "id": 1008,
+      "url": "https://www.tvmaze.com/shows/1008/glasshouse",
+      "name": "Glasshouse",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "status": "Running",
+      "runtime": 48,
+      "averageRuntime": 48,
+      "premiered": "2026-09-10",
+      "ended": null,
+      "officialSite": "https://glasshouse.example/",
+      "schedule": {
+        "time": "21:00",
+        "days": [
+          "Thursday"
+        ]
+      },
+      "rating": {
+        "average": 8.4
+      },
+      "weight": 93,
+      "network": {
+        "id": 9002,
+        "name": "Meridian",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://meridian.example/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 498108,
+        "imdb": "tt9900108"
+      },
+      "image": {
+        "medium": "bundle://artwork/poster-1008.jpg",
+        "original": "bundle://artwork/poster-1008.jpg"
+      },
+      "summary": "<p>An architect who designed a city's tallest tower realises someone is using it to watch her family.</p>",
+      "updated": 1791201008,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/1008"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/100804",
+          "name": "Tipping Point"
+        },
+        "nextepisode": {
+          "href": "https://api.tvmaze.com/episodes/100805",
+          "name": "The Deposition"
+        }
+      }
+    }
+  },
+  {
+    "id": 101221,
+    "url": "https://www.tvmaze.com/episodes/101221/second-chair-2x03-dead-air",
+    "name": "Dead Air",
+    "season": 2,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "21:00",
+    "airstamp": "2026-10-09T01:00:00+00:00",
+    "runtime": 44,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>June gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/101221"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1012",
+        "name": "Second Chair"
+      }
+    },
+    "show": {
+      "id": 1012,
+      "url": "https://www.tvmaze.com/shows/1012/second-chair",
+      "name": "Second Chair",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Drama",
+        "Legal"
+      ],
+      "status": "Running",
+      "runtime": 44,
+      "averageRuntime": 44,
+      "premiered": "2025-09-25",
+      "ended": null,
+      "officialSite": "https://second-chair.example/",
+      "schedule": {
+        "time": "21:00",
+        "days": [
+          "Thursday"
+        ]
+      },
+      "rating": {
+        "average": 7.3
+      },
+      "weight": 81,
+      "network": {
+        "id": 9001,
+        "name": "Northwind",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://northwind.example/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 498112,
+        "imdb": "tt9900112"
+      },
+      "image": {
+        "medium": "bundle://artwork/poster-1012.jpg",
+        "original": "bundle://artwork/poster-1012.jpg"
+      },
+      "summary": "<p>A public defender is promoted to second chair on the murder trial that made her want to be a lawyer.</p>",
+      "updated": 1791201012,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/1012"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/101220",
+          "name": "Signal Fire"
+        },
+        "nextepisode": {
+          "href": "https://api.tvmaze.com/episodes/101221",
+          "name": "Dead Air"
+        }
+      }
+    }
+  },
+  {
+    "id": 100513,
+    "url": "https://www.tvmaze.com/episodes/100513/copper-vine-2x03-parallax",
+    "name": "Parallax",
+    "season": 2,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "22:00",
+    "airstamp": "2026-10-09T02:00:00+00:00",
+    "runtime": 55,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>Kit gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/100513"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1005",
+        "name": "Copper & Vine"
+      }
+    },
+    "show": {
+      "id": 1005,
+      "url": "https://www.tvmaze.com/shows/1005/copper-vine",
+      "name": "Copper & Vine",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "status": "Running",
+      "runtime": 55,
+      "averageRuntime": 55,
+      "premiered": "2025-09-25",
+      "ended": null,
+      "officialSite": "https://copper-vine.example/",
+      "schedule": {
+        "time": "22:00",
+        "days": [
+          "Thursday"
+        ]
+      },
+      "rating": {
+        "average": 8.0
+      },
+      "weight": 90,
+      "network": {
+        "id": 9001,
+        "name": "Northwind",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://northwind.example/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 498105,
+        "imdb": "tt9900105"
+      },
+      "image": {
+        "medium": "bundle://artwork/poster-1005.jpg",
+        "original": "bundle://artwork/poster-1005.jpg"
+      },
+      "summary": "<p>A winemaking dynasty in a sun-baked valley hides a decades-old disappearance under its oldest vines.</p>",
+      "updated": 1791201005,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/1005"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/100512",
+          "name": "Open Water"
+        },
+        "nextepisode": {
+          "href": "https://api.tvmaze.com/episodes/100513",
+          "name": "Parallax"
+        }
+      }
+    }
+  },
+  {
+    "id": 101017,
+    "url": "https://www.tvmaze.com/episodes/101017/midnight-ledger-2x04-night-moves",
+    "name": "Night Moves",
+    "season": 2,
+    "number": 4,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "22:00",
+    "airstamp": "2026-10-09T02:00:00+00:00",
+    "runtime": 46,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>Old loyalties are tested when Elena finds out what really happened that night.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/101017"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1010",
+        "name": "Midnight Ledger"
+      }
+    },
+    "show": {
+      "id": 1010,
+      "url": "https://www.tvmaze.com/shows/1010/midnight-ledger",
+      "name": "Midnight Ledger",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Crime",
+        "Mystery"
+      ],
+      "status": "Running",
+      "runtime": 46,
+      "averageRuntime": 46,
+      "premiered": "2025-09-18",
+      "ended": null,
+      "officialSite": "https://midnight-ledger.example/",
+      "schedule": {
+        "time": "22:00",
+        "days": [
+          "Thursday"
+        ]
+      },
+      "rating": {
+        "average": 7.8
+      },
+      "weight": 86,
+      "network": {
+        "id": 9004,
+        "name": "KBX",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 498110,
+        "imdb": "tt9900110"
+      },
+      "image": {
+        "medium": "bundle://artwork/poster-1010.jpg",
+        "original": "bundle://artwork/poster-1010.jpg"
+      },
+      "summary": "<p>A forensic accountant follows the money through a city that never closes its books.</p>",
+      "updated": 1791201010,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/1010"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/101016",
+          "name": "The Long Way Home"
+        },
+        "nextepisode": {
+          "href": "https://api.tvmaze.com/episodes/101017",
+          "name": "Night Moves"
+        }
+      }
+    }
+  },
+  {
+    "id": 100719,
+    "url": "https://www.tvmaze.com/episodes/100719/the-overnight-desk-1x19-talia-demir-ingrid-strand",
+    "name": "Talia Demir; Ingrid Strand",
+    "season": 1,
+    "number": 19,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "23:35",
+    "airstamp": "2026-10-09T03:35:00+00:00",
+    "runtime": 45,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>Guests include Talia Demir and Ingrid Strand.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/100719"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1007",
+        "name": "The Overnight Desk"
+      }
+    },
+    "show": {
+      "id": 1007,
+      "url": "https://www.tvmaze.com/shows/1007/the-overnight-desk",
+      "name": "The Overnight Desk",
+      "type": "Talk Show",
+      "language": "English",
+      "genres": [
+        "Comedy"
+      ],
+      "status": "Running",
+      "runtime": null,
+      "averageRuntime": 45,
+      "premiered": "2026-09-14",
+      "ended": null,
+      "officialSite": "https://the-overnight-desk.example/",
+      "schedule": {
+        "time": "23:35",
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      },
+      "rating": {
+        "average": 7.1
+      },
+      "weight": 84,
+      "network": {
+        "id": 9002,
+        "name": "Meridian",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://meridian.example/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 498107,
+        "imdb": "tt9900107"
+      },
+      "image": {
+        "medium": "bundle://artwork/poster-1007.jpg",
+        "original": "bundle://artwork/poster-1007.jpg"
+      },
+      "summary": "<p>Late-night conversation, music and a monologue written ten minutes before air.</p>",
+      "updated": 1791201007,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/1007"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/100718",
+          "name": "Rowan Whitlock; Anja Bauer"
+        },
+        "nextepisode": {
+          "href": "https://api.tvmaze.com/episodes/100719",
+          "name": "Talia Demir; Ingrid Strand"
+        }
+      }
+    }
+  },
+  {
+    "id": 100616,
+    "url": "https://www.tvmaze.com/episodes/100616/late-night-kitchen-1x16-kwame-lindqvist-anja-brooks",
+    "name": "Kwame Lindqvist; Anja Brooks",
+    "season": 1,
+    "number": 16,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "23:35",
+    "airstamp": "2026-10-09T03:35:00+00:00",
+    "runtime": 40,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>Guests include Kwame Lindqvist and Anja Brooks.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/100616"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1006",
+        "name": "Late Night Kitchen"
+      }
+    },
+    "show": {
+      "id": 1006,
+      "url": "https://www.tvmaze.com/shows/1006/late-night-kitchen",
+      "name": "Late Night Kitchen",
+      "type": "Variety",
+      "language": "English",
+      "genres": [
+        "Food"
+      ],
+      "status": "Running",
+      "runtime": null,
+      "averageRuntime": 40,
+      "premiered": "2026-09-14",
+      "ended": null,
+      "officialSite": "https://late-night-kitchen.example/",
+      "schedule": {
+        "time": "23:35",
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ]
+      },
+      "rating": {
+        "average": 6.9
+      },
+      "weight": 72,
+      "network": {
+        "id": 9004,
+        "name": "KBX",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 498106,
+        "imdb": "tt9900106"
+      },
+      "image": {
+        "medium": "bundle://artwork/poster-1006.jpg",
+        "original": "bundle://artwork/poster-1006.jpg"
+      },
+      "summary": "<p>Chef Rosa Delgado cooks one dish with tonight's guest before the clock hits midnight.</p>",
+      "updated": 1791201006,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/1006"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/100615",
+          "name": "Mateo Moreau; Elliot Tanaka"
+        },
+        "nextepisode": {
+          "href": "https://api.tvmaze.com/episodes/100616",
+          "name": "Kwame Lindqvist; Anja Brooks"
+        }
+      }
+    }
+  }
+]

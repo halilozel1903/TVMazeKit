@@ -1,0 +1,1691 @@
+{
+  "id": 1009,
+  "url": "https://www.tvmaze.com/shows/1009/orbit-academy",
+  "name": "Orbit Academy",
+  "type": "Animation",
+  "language": "English",
+  "genres": [
+    "Children",
+    "Science-Fiction",
+    "Family"
+  ],
+  "status": "Running",
+  "runtime": 22,
+  "averageRuntime": 22,
+  "premiered": "2025-03-03",
+  "ended": null,
+  "officialSite": "https://orbit-academy.example/",
+  "schedule": {
+    "time": "17:00",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ]
+  },
+  "rating": {
+    "average": 7.7
+  },
+  "weight": 70,
+  "network": {
+    "id": 9003,
+    "name": "Atlas Channel",
+    "country": {
+      "name": "United States",
+      "code": "US",
+      "timezone": "America/New_York"
+    },
+    "officialSite": "https://atlas.example/"
+  },
+  "webChannel": null,
+  "dvdCountry": null,
+  "externals": {
+    "tvrage": null,
+    "thetvdb": 498109,
+    "imdb": "tt9900109"
+  },
+  "image": {
+    "medium": "bundle://artwork/poster-1009.jpg",
+    "original": "bundle://artwork/poster-1009.jpg"
+  },
+  "summary": "<p>Cadets at a school on the far side of the Moon learn to fly, fix and occasionally lose spaceships.</p>",
+  "updated": 1791201009,
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/shows/1009"
+    },
+    "previousepisode": {
+      "href": "https://api.tvmaze.com/episodes/100945",
+      "name": "Low Tide"
+    },
+    "nextepisode": {
+      "href": "https://api.tvmaze.com/episodes/100946",
+      "name": "Fault Lines"
+    }
+  },
+  "_embedded": {
+    "cast": [
+      {
+        "person": {
+          "id": 2046,
+          "url": "https://www.tvmaze.com/people/2046/tomas-solberg",
+          "name": "Tomas Solberg",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "birthday": "1998-06-14",
+          "deathday": null,
+          "gender": "Male",
+          "image": {
+            "medium": "bundle://artwork/person-2046.jpg",
+            "original": "bundle://artwork/person-2046.jpg"
+          },
+          "updated": 1790002046,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2046"
+            }
+          }
+        },
+        "character": {
+          "id": 3036,
+          "url": "https://www.tvmaze.com/characters/3036/orbit-academy-abe-voss",
+          "name": "Abe Voss",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3036"
+            }
+          }
+        },
+        "self": false,
+        "voice": true
+      },
+      {
+        "person": {
+          "id": 2047,
+          "url": "https://www.tvmaze.com/people/2047/bastian-byrne",
+          "name": "Bastian Byrne",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "birthday": "1988-03-14",
+          "deathday": null,
+          "gender": "Female",
+          "image": {
+            "medium": "bundle://artwork/person-2047.jpg",
+            "original": "bundle://artwork/person-2047.jpg"
+          },
+          "updated": 1790002047,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2047"
+            }
+          }
+        },
+        "character": {
+          "id": 3037,
+          "url": "https://www.tvmaze.com/characters/3037/orbit-academy-leo-pike",
+          "name": "Leo Pike",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3037"
+            }
+          }
+        },
+        "self": false,
+        "voice": true
+      },
+      {
+        "person": {
+          "id": 2048,
+          "url": "https://www.tvmaze.com/people/2048/rafael-ashby",
+          "name": "Rafael Ashby",
+          "country": {
+            "name": "Germany",
+            "code": "DE",
+            "timezone": "Europe/Berlin"
+          },
+          "birthday": "1989-09-13",
+          "deathday": null,
+          "gender": "Male",
+          "image": {
+            "medium": "bundle://artwork/person-2048.jpg",
+            "original": "bundle://artwork/person-2048.jpg"
+          },
+          "updated": 1790002048,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2048"
+            }
+          }
+        },
+        "character": {
+          "id": 3038,
+          "url": "https://www.tvmaze.com/characters/3038/orbit-academy-ada-voss",
+          "name": "Ada Voss",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3038"
+            }
+          }
+        },
+        "self": false,
+        "voice": true
+      },
+      {
+        "person": {
+          "id": 2049,
+          "url": "https://www.tvmaze.com/people/2049/ayla-lindell",
+          "name": "Ayla Lindell",
+          "country": {
+            "name": "United Kingdom",
+            "code": "GB",
+            "timezone": "Europe/London"
+          },
+          "birthday": "1964-11-19",
+          "deathday": null,
+          "gender": "Male",
+          "image": {
+            "medium": "bundle://artwork/person-2049.jpg",
+            "original": "bundle://artwork/person-2049.jpg"
+          },
+          "updated": 1790002049,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2049"
+            }
+          }
+        },
+        "character": {
+          "id": 3039,
+          "url": "https://www.tvmaze.com/characters/3039/orbit-academy-elena-ames",
+          "name": "Elena Ames",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3039"
+            }
+          }
+        },
+        "self": false,
+        "voice": true
+      },
+      {
+        "person": {
+          "id": 2050,
+          "url": "https://www.tvmaze.com/people/2050/dev-bauer",
+          "name": "Dev Bauer",
+          "country": {
+            "name": "Germany",
+            "code": "DE",
+            "timezone": "Europe/Berlin"
+          },
+          "birthday": "1971-07-09",
+          "deathday": null,
+          "gender": "Male",
+          "image": {
+            "medium": "bundle://artwork/person-2050.jpg",
+            "original": "bundle://artwork/person-2050.jpg"
+          },
+          "updated": 1790002050,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2050"
+            }
+          }
+        },
+        "character": {
+          "id": 3040,
+          "url": "https://www.tvmaze.com/characters/3040/orbit-academy-lou-rook",
+          "name": "Lou Rook",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3040"
+            }
+          }
+        },
+        "self": false,
+        "voice": true
+      }
+    ],
+    "seasons": [
+      {
+        "id": 60091,
+        "url": "https://www.tvmaze.com/seasons/60091/orbit-academy-season-1",
+        "number": 1,
+        "name": "",
+        "episodeOrder": 26,
+        "premiereDate": "2025-03-03",
+        "endDate": "2025-04-07",
+        "network": {
+          "id": 9003,
+          "name": "Atlas Channel",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "officialSite": "https://atlas.example/"
+        },
+        "webChannel": null,
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/seasons/60091"
+          }
+        }
+      },
+      {
+        "id": 60092,
+        "url": "https://www.tvmaze.com/seasons/60092/orbit-academy-season-2",
+        "number": 2,
+        "name": "",
+        "episodeOrder": 26,
+        "premiereDate": "2026-09-11",
+        "endDate": "2026-10-16",
+        "network": {
+          "id": 9003,
+          "name": "Atlas Channel",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "officialSite": "https://atlas.example/"
+        },
+        "webChannel": null,
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/seasons/60092"
+          }
+        }
+      }
+    ],
+    "episodes": [
+      {
+        "id": 100901,
+        "url": "https://www.tvmaze.com/episodes/100901/orbit-academy-1x01-pilot",
+        "name": "Pilot",
+        "season": 1,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2025-03-03",
+        "airtime": "17:00",
+        "airstamp": "2025-03-03T22:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.4
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Sam has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100901"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100902,
+        "url": "https://www.tvmaze.com/episodes/100902/orbit-academy-1x02-cold-open",
+        "name": "Cold Open",
+        "season": 1,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2025-03-04",
+        "airtime": "17:00",
+        "airstamp": "2025-03-04T22:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.3
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Ada goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100902"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100903,
+        "url": "https://www.tvmaze.com/episodes/100903/orbit-academy-1x03-the-inventory",
+        "name": "The Inventory",
+        "season": 1,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2025-03-05",
+        "airtime": "17:00",
+        "airstamp": "2025-03-05T22:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.4
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Iris has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100903"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100904,
+        "url": "https://www.tvmaze.com/episodes/100904/orbit-academy-1x04-last-call",
+        "name": "Last Call",
+        "season": 1,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2025-03-06",
+        "airtime": "17:00",
+        "airstamp": "2025-03-06T22:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.2
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Jack finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100904"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100905,
+        "url": "https://www.tvmaze.com/episodes/100905/orbit-academy-1x05-safe-harbor",
+        "name": "Safe Harbor",
+        "season": 1,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2025-03-07",
+        "airtime": "17:00",
+        "airstamp": "2025-03-07T22:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.5
+        },
+        "image": null,
+        "summary": "<p>Sam gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100905"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100906,
+        "url": "https://www.tvmaze.com/episodes/100906/orbit-academy-1x06-first-light",
+        "name": "First Light",
+        "season": 1,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2025-03-10",
+        "airtime": "17:00",
+        "airstamp": "2025-03-10T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.7
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Leo has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100906"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100907,
+        "url": "https://www.tvmaze.com/episodes/100907/orbit-academy-1x07-the-long-way-home",
+        "name": "The Long Way Home",
+        "season": 1,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2025-03-11",
+        "airtime": "17:00",
+        "airstamp": "2025-03-11T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.8
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Gus finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100907"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100908,
+        "url": "https://www.tvmaze.com/episodes/100908/orbit-academy-1x08-night-moves",
+        "name": "Night Moves",
+        "season": 1,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2025-03-12",
+        "airtime": "17:00",
+        "airstamp": "2025-03-12T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 8.0
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Cole goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100908"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100909,
+        "url": "https://www.tvmaze.com/episodes/100909/orbit-academy-1x09-undertow",
+        "name": "Undertow",
+        "season": 1,
+        "number": 9,
+        "type": "regular",
+        "airdate": "2025-03-13",
+        "airtime": "17:00",
+        "airstamp": "2025-03-13T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 8.2
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Mara has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100909"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100910,
+        "url": "https://www.tvmaze.com/episodes/100910/orbit-academy-1x10-homecoming",
+        "name": "Homecoming",
+        "season": 1,
+        "number": 10,
+        "type": "regular",
+        "airdate": "2025-03-14",
+        "airtime": "17:00",
+        "airstamp": "2025-03-14T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 8.1
+        },
+        "image": null,
+        "summary": "<p>Rhys gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100910"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100911,
+        "url": "https://www.tvmaze.com/episodes/100911/orbit-academy-1x11-crossfire",
+        "name": "Crossfire",
+        "season": 1,
+        "number": 11,
+        "type": "regular",
+        "airdate": "2025-03-17",
+        "airtime": "17:00",
+        "airstamp": "2025-03-17T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.5
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Lou finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100911"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100912,
+        "url": "https://www.tvmaze.com/episodes/100912/orbit-academy-1x12-breaking-even",
+        "name": "Breaking Even",
+        "season": 1,
+        "number": 12,
+        "type": "regular",
+        "airdate": "2025-03-18",
+        "airtime": "17:00",
+        "airstamp": "2025-03-18T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.4
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Kit finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100912"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100913,
+        "url": "https://www.tvmaze.com/episodes/100913/orbit-academy-1x13-outliers",
+        "name": "Outliers",
+        "season": 1,
+        "number": 13,
+        "type": "regular",
+        "airdate": "2025-03-19",
+        "airtime": "17:00",
+        "airstamp": "2025-03-19T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 8.1
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when June finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100913"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100914,
+        "url": "https://www.tvmaze.com/episodes/100914/orbit-academy-1x14-low-tide",
+        "name": "Low Tide",
+        "season": 1,
+        "number": 14,
+        "type": "regular",
+        "airdate": "2025-03-20",
+        "airtime": "17:00",
+        "airstamp": "2025-03-20T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 8.0
+        },
+        "image": null,
+        "summary": "<p>Nell gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100914"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100915,
+        "url": "https://www.tvmaze.com/episodes/100915/orbit-academy-1x15-fault-lines",
+        "name": "Fault Lines",
+        "season": 1,
+        "number": 15,
+        "type": "regular",
+        "airdate": "2025-03-21",
+        "airtime": "17:00",
+        "airstamp": "2025-03-21T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 8.2
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Iris goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100915"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100916,
+        "url": "https://www.tvmaze.com/episodes/100916/orbit-academy-1x16-backfire",
+        "name": "Backfire",
+        "season": 1,
+        "number": 16,
+        "type": "regular",
+        "airdate": "2025-03-24",
+        "airtime": "17:00",
+        "airstamp": "2025-03-24T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.5
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Lou has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100916"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100917,
+        "url": "https://www.tvmaze.com/episodes/100917/orbit-academy-1x17-blind-spot",
+        "name": "Blind Spot",
+        "season": 1,
+        "number": 17,
+        "type": "regular",
+        "airdate": "2025-03-25",
+        "airtime": "17:00",
+        "airstamp": "2025-03-25T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 8.2
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Lou goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100917"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100918,
+        "url": "https://www.tvmaze.com/episodes/100918/orbit-academy-1x18-full-circle",
+        "name": "Full Circle",
+        "season": 1,
+        "number": 18,
+        "type": "regular",
+        "airdate": "2025-03-26",
+        "airtime": "17:00",
+        "airstamp": "2025-03-26T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 8.0
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Kit has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100918"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100919,
+        "url": "https://www.tvmaze.com/episodes/100919/orbit-academy-1x19-rearview",
+        "name": "Rearview",
+        "season": 1,
+        "number": 19,
+        "type": "regular",
+        "airdate": "2025-03-27",
+        "airtime": "17:00",
+        "airstamp": "2025-03-27T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.6
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Mara goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100919"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100920,
+        "url": "https://www.tvmaze.com/episodes/100920/orbit-academy-1x20-daylight",
+        "name": "Daylight",
+        "season": 1,
+        "number": 20,
+        "type": "regular",
+        "airdate": "2025-03-28",
+        "airtime": "17:00",
+        "airstamp": "2025-03-28T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.7
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Elena has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100920"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100921,
+        "url": "https://www.tvmaze.com/episodes/100921/orbit-academy-1x21-afterglow",
+        "name": "Afterglow",
+        "season": 1,
+        "number": 21,
+        "type": "regular",
+        "airdate": "2025-03-31",
+        "airtime": "17:00",
+        "airstamp": "2025-03-31T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 8.1
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Elena finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100921"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100922,
+        "url": "https://www.tvmaze.com/episodes/100922/orbit-academy-1x22-old-debts",
+        "name": "Old Debts",
+        "season": 1,
+        "number": 22,
+        "type": "regular",
+        "airdate": "2025-04-01",
+        "airtime": "17:00",
+        "airstamp": "2025-04-01T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.4
+        },
+        "image": null,
+        "summary": "<p>Pia gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100922"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100923,
+        "url": "https://www.tvmaze.com/episodes/100923/orbit-academy-1x23-small-hours",
+        "name": "Small Hours",
+        "season": 1,
+        "number": 23,
+        "type": "regular",
+        "airdate": "2025-04-02",
+        "airtime": "17:00",
+        "airstamp": "2025-04-02T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 8.0
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Abe finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100923"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100924,
+        "url": "https://www.tvmaze.com/episodes/100924/orbit-academy-1x24-signal-fire",
+        "name": "Signal Fire",
+        "season": 1,
+        "number": 24,
+        "type": "regular",
+        "airdate": "2025-04-03",
+        "airtime": "17:00",
+        "airstamp": "2025-04-03T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 8.1
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Iris goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100924"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100925,
+        "url": "https://www.tvmaze.com/episodes/100925/orbit-academy-1x25-dead-air",
+        "name": "Dead Air",
+        "season": 1,
+        "number": 25,
+        "type": "regular",
+        "airdate": "2025-04-04",
+        "airtime": "17:00",
+        "airstamp": "2025-04-04T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.4
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Nell finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100925"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100926,
+        "url": "https://www.tvmaze.com/episodes/100926/orbit-academy-1x26-second-opinion",
+        "name": "Second Opinion",
+        "season": 1,
+        "number": 26,
+        "type": "regular",
+        "airdate": "2025-04-07",
+        "airtime": "17:00",
+        "airstamp": "2025-04-07T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.4
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Jack has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100926"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100927,
+        "url": "https://www.tvmaze.com/episodes/100927/orbit-academy-2x01-the-deposition",
+        "name": "The Deposition",
+        "season": 2,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2026-09-11",
+        "airtime": "17:00",
+        "airstamp": "2026-09-11T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.6
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Cole goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100927"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100928,
+        "url": "https://www.tvmaze.com/episodes/100928/orbit-academy-2x02-the-audit",
+        "name": "The Audit",
+        "season": 2,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2026-09-14",
+        "airtime": "17:00",
+        "airstamp": "2026-09-14T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.7
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Mara has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100928"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100929,
+        "url": "https://www.tvmaze.com/episodes/100929/orbit-academy-2x03-groundwork",
+        "name": "Groundwork",
+        "season": 2,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2026-09-15",
+        "airtime": "17:00",
+        "airstamp": "2026-09-15T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.4
+        },
+        "image": null,
+        "summary": "<p>Rhys gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100929"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100930,
+        "url": "https://www.tvmaze.com/episodes/100930/orbit-academy-2x04-open-water",
+        "name": "Open Water",
+        "season": 2,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2026-09-16",
+        "airtime": "17:00",
+        "airstamp": "2026-09-16T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.4
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Lou finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100930"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100931,
+        "url": "https://www.tvmaze.com/episodes/100931/orbit-academy-2x05-parallax",
+        "name": "Parallax",
+        "season": 2,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2026-09-17",
+        "airtime": "17:00",
+        "airstamp": "2026-09-17T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 8.0
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Kit finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100931"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100932,
+        "url": "https://www.tvmaze.com/episodes/100932/orbit-academy-2x06-paper-trail",
+        "name": "Paper Trail",
+        "season": 2,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2026-09-18",
+        "airtime": "17:00",
+        "airstamp": "2026-09-18T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 8.2
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when June finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100932"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100933,
+        "url": "https://www.tvmaze.com/episodes/100933/orbit-academy-2x07-cold-open",
+        "name": "Cold Open",
+        "season": 2,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2026-09-21",
+        "airtime": "17:00",
+        "airstamp": "2026-09-21T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.4
+        },
+        "image": null,
+        "summary": "<p>Nell gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100933"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100934,
+        "url": "https://www.tvmaze.com/episodes/100934/orbit-academy-2x08-the-inventory",
+        "name": "The Inventory",
+        "season": 2,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2026-09-22",
+        "airtime": "17:00",
+        "airstamp": "2026-09-22T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.9
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Iris goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100934"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100935,
+        "url": "https://www.tvmaze.com/episodes/100935/orbit-academy-2x09-last-call",
+        "name": "Last Call",
+        "season": 2,
+        "number": 9,
+        "type": "regular",
+        "airdate": "2026-09-23",
+        "airtime": "17:00",
+        "airstamp": "2026-09-23T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 8.1
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Lou has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100935"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100936,
+        "url": "https://www.tvmaze.com/episodes/100936/orbit-academy-2x10-safe-harbor",
+        "name": "Safe Harbor",
+        "season": 2,
+        "number": 10,
+        "type": "regular",
+        "airdate": "2026-09-24",
+        "airtime": "17:00",
+        "airstamp": "2026-09-24T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.7
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Lou goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100936"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100937,
+        "url": "https://www.tvmaze.com/episodes/100937/orbit-academy-2x11-first-light",
+        "name": "First Light",
+        "season": 2,
+        "number": 11,
+        "type": "regular",
+        "airdate": "2026-09-25",
+        "airtime": "17:00",
+        "airstamp": "2026-09-25T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.9
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Kit has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100937"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100938,
+        "url": "https://www.tvmaze.com/episodes/100938/orbit-academy-2x12-the-long-way-home",
+        "name": "The Long Way Home",
+        "season": 2,
+        "number": 12,
+        "type": "regular",
+        "airdate": "2026-09-28",
+        "airtime": "17:00",
+        "airstamp": "2026-09-28T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.7
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Mara goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100938"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100939,
+        "url": "https://www.tvmaze.com/episodes/100939/orbit-academy-2x13-night-moves",
+        "name": "Night Moves",
+        "season": 2,
+        "number": 13,
+        "type": "regular",
+        "airdate": "2026-09-29",
+        "airtime": "17:00",
+        "airstamp": "2026-09-29T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 8.3
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Elena has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100939"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100940,
+        "url": "https://www.tvmaze.com/episodes/100940/orbit-academy-2x14-undertow",
+        "name": "Undertow",
+        "season": 2,
+        "number": 14,
+        "type": "regular",
+        "airdate": "2026-09-30",
+        "airtime": "17:00",
+        "airstamp": "2026-09-30T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 8.2
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Elena finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100940"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100941,
+        "url": "https://www.tvmaze.com/episodes/100941/orbit-academy-2x15-homecoming",
+        "name": "Homecoming",
+        "season": 2,
+        "number": 15,
+        "type": "regular",
+        "airdate": "2026-10-01",
+        "airtime": "17:00",
+        "airstamp": "2026-10-01T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.5
+        },
+        "image": null,
+        "summary": "<p>Pia gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100941"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100942,
+        "url": "https://www.tvmaze.com/episodes/100942/orbit-academy-2x16-crossfire",
+        "name": "Crossfire",
+        "season": 2,
+        "number": 16,
+        "type": "regular",
+        "airdate": "2026-10-02",
+        "airtime": "17:00",
+        "airstamp": "2026-10-02T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.2
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Abe finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100942"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100943,
+        "url": "https://www.tvmaze.com/episodes/100943/orbit-academy-2x17-breaking-even",
+        "name": "Breaking Even",
+        "season": 2,
+        "number": 17,
+        "type": "regular",
+        "airdate": "2026-10-05",
+        "airtime": "17:00",
+        "airstamp": "2026-10-05T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.7
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Iris goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100943"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100944,
+        "url": "https://www.tvmaze.com/episodes/100944/orbit-academy-2x18-outliers",
+        "name": "Outliers",
+        "season": 2,
+        "number": 18,
+        "type": "regular",
+        "airdate": "2026-10-06",
+        "airtime": "17:00",
+        "airstamp": "2026-10-06T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 8.1
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Nell finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100944"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100945,
+        "url": "https://www.tvmaze.com/episodes/100945/orbit-academy-2x19-low-tide",
+        "name": "Low Tide",
+        "season": 2,
+        "number": 19,
+        "type": "regular",
+        "airdate": "2026-10-07",
+        "airtime": "17:00",
+        "airstamp": "2026-10-07T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": 7.4
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Jack has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100945"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100946,
+        "url": "https://www.tvmaze.com/episodes/100946/orbit-academy-2x20-fault-lines",
+        "name": "Fault Lines",
+        "season": 2,
+        "number": 20,
+        "type": "regular",
+        "airdate": "2026-10-08",
+        "airtime": "17:00",
+        "airstamp": "2026-10-08T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Lou has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100946"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100947,
+        "url": "https://www.tvmaze.com/episodes/100947/orbit-academy-2x21-backfire",
+        "name": "Backfire",
+        "season": 2,
+        "number": 21,
+        "type": "regular",
+        "airdate": "2026-10-09",
+        "airtime": "17:00",
+        "airstamp": "2026-10-09T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100947"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100948,
+        "url": "https://www.tvmaze.com/episodes/100948/orbit-academy-2x22-blind-spot",
+        "name": "Blind Spot",
+        "season": 2,
+        "number": 22,
+        "type": "regular",
+        "airdate": "2026-10-12",
+        "airtime": "17:00",
+        "airstamp": "2026-10-12T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100948"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100949,
+        "url": "https://www.tvmaze.com/episodes/100949/orbit-academy-2x23-full-circle",
+        "name": "Full Circle",
+        "season": 2,
+        "number": 23,
+        "type": "regular",
+        "airdate": "2026-10-13",
+        "airtime": "17:00",
+        "airstamp": "2026-10-13T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100949"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100950,
+        "url": "https://www.tvmaze.com/episodes/100950/orbit-academy-2x24-rearview",
+        "name": "Rearview",
+        "season": 2,
+        "number": 24,
+        "type": "regular",
+        "airdate": "2026-10-14",
+        "airtime": "17:00",
+        "airstamp": "2026-10-14T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100950"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100951,
+        "url": "https://www.tvmaze.com/episodes/100951/orbit-academy-2x25-daylight",
+        "name": "Daylight",
+        "season": 2,
+        "number": 25,
+        "type": "regular",
+        "airdate": "2026-10-15",
+        "airtime": "17:00",
+        "airstamp": "2026-10-15T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100951"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      },
+      {
+        "id": 100952,
+        "url": "https://www.tvmaze.com/episodes/100952/orbit-academy-2x26-afterglow",
+        "name": "Afterglow",
+        "season": 2,
+        "number": 26,
+        "type": "regular",
+        "airdate": "2026-10-16",
+        "airtime": "17:00",
+        "airstamp": "2026-10-16T21:00:00+00:00",
+        "runtime": 22,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100952"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1009",
+            "name": "Orbit Academy"
+          }
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 701009,
+        "type": "poster",
+        "main": true,
+        "resolutions": {
+          "original": {
+            "url": "bundle://artwork/poster-1009.jpg",
+            "width": 680,
+            "height": 1000
+          },
+          "medium": {
+            "url": "bundle://artwork/poster-1009.jpg",
+            "width": 210,
+            "height": 295
+          }
+        }
+      }
+    ]
+  }
+}

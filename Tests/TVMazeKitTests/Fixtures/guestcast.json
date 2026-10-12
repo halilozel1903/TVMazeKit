@@ -1,0 +1,40 @@
+[
+  {
+    "person": {
+      "id": 2090,
+      "url": "https://www.tvmaze.com/people/2090/graham-ashby",
+      "name": "Graham Ashby",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1966-04-11",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/451/902090.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/451/902090.jpg"
+      },
+      "updated": 1790002090,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/people/2090"
+        }
+      }
+    },
+    "character": {
+      "id": 3072,
+      "url": "https://www.tvmaze.com/characters/3072/the-long-static-captain-edvard-lund",
+      "name": "Captain Edvard Lund",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/characters/3072"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

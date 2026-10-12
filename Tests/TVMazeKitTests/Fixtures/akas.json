@@ -1,0 +1,30 @@
+[
+  {
+    "name": "La Longue Statique",
+    "country": {
+      "name": "France",
+      "code": "FR",
+      "timezone": "Europe/Paris"
+    }
+  },
+  {
+    "name": "Det lange suset",
+    "country": {
+      "name": "Norway",
+      "code": "NO",
+      "timezone": "Europe/Oslo"
+    }
+  },
+  {
+    "name": "Statico Lungo",
+    "country": {
+      "name": "Italy",
+      "code": "IT",
+      "timezone": "Europe/Rome"
+    }
+  },
+  {
+    "name": "Halvard Station",
+    "country": null
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 60011,
+    "url": "https://www.tvmaze.com/seasons/60011/the-long-static-season-1",
+    "number": 1,
+    "name": "",
+    "episodeOrder": 8,
+    "premiereDate": "2025-01-16",
+    "endDate": "2025-03-06",
+    "network": {
+      "id": 9001,
+      "name": "Northwind",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "officialSite": "https://northwind.example/"
+    },
+    "webChannel": null,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/450/901001.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/450/901001.jpg"
+    },
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/seasons/60011"
+      }
+    }
+  },
+  {
+    "id": 60012,
+    "url": "https://www.tvmaze.com/seasons/60012/the-long-static-season-2",
+    "number": 2,
+    "name": "",
+    "episodeOrder": 10,
+    "premiereDate": "2026-09-10",
+    "endDate": null,
+    "network": {
+      "id": 9001,
+      "name": "Northwind",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "officialSite": "https://northwind.example/"
+    },
+    "webChannel": null,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/450/901001.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/450/901001.jpg"
+    },
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/seasons/60012"
+      }
+    }
+  }
+]

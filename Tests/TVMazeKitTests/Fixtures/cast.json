@@ -1,0 +1,230 @@
+[
+  {
+    "person": {
+      "id": 2001,
+      "url": "https://www.tvmaze.com/people/2001/ingrid-solberg",
+      "name": "Ingrid Solberg",
+      "country": {
+        "name": "Norway",
+        "code": "NO",
+        "timezone": "Europe/Oslo"
+      },
+      "birthday": "1988-03-14",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/451/902001.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/451/902001.jpg"
+      },
+      "updated": 1790002001,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/people/2001"
+        }
+      }
+    },
+    "character": {
+      "id": 3001,
+      "url": "https://www.tvmaze.com/characters/3001/the-long-static-maren-holt",
+      "name": "Maren Holt",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/characters/3001"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 2002,
+      "url": "https://www.tvmaze.com/people/2002/marcus-adeyemi",
+      "name": "Marcus Adeyemi",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1985-11-02",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/451/902002.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/451/902002.jpg"
+      },
+      "updated": 1790002002,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/people/2002"
+        }
+      }
+    },
+    "character": {
+      "id": 3002,
+      "url": "https://www.tvmaze.com/characters/3002/the-long-static-theo-vance",
+      "name": "Theo Vance",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/characters/3002"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 2003,
+      "url": "https://www.tvmaze.com/people/2003/helen-marsh",
+      "name": "Helen Marsh",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1971-06-21",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/451/902003.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/451/902003.jpg"
+      },
+      "updated": 1790002003,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/people/2003"
+        }
+      }
+    },
+    "character": {
+      "id": 3003,
+      "url": "https://www.tvmaze.com/characters/3003/the-long-static-dr-ruth-calloway",
+      "name": "Dr. Ruth Calloway",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/characters/3003"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 2004,
+      "url": "https://www.tvmaze.com/people/2004/dmitri-katz",
+      "name": "Dmitri Katz",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": "1979-01-30",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/451/902004.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/451/902004.jpg"
+      },
+      "updated": 1790002004,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/people/2004"
+        }
+      }
+    },
+    "character": {
+      "id": 3004,
+      "url": "https://www.tvmaze.com/characters/3004/the-long-static-pavel-orlov",
+      "name": "Pavel Orlov",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/characters/3004"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 2005,
+      "url": "https://www.tvmaze.com/people/2005/luis-ortega",
+      "name": "Luis Ortega",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1993-08-09",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/451/902005.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/451/902005.jpg"
+      },
+      "updated": 1790002005,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/people/2005"
+        }
+      }
+    },
+    "character": {
+      "id": 3005,
+      "url": "https://www.tvmaze.com/characters/3005/the-long-static-jonah-reyes",
+      "name": "Jonah Reyes",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/characters/3005"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 2006,
+      "url": "https://www.tvmaze.com/people/2006/anja-lindqvist",
+      "name": "Anja Lindqvist",
+      "country": {
+        "name": "Norway",
+        "code": "NO",
+        "timezone": "Europe/Oslo"
+      },
+      "birthday": "1990-12-01",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/451/902006.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/451/902006.jpg"
+      },
+      "updated": 1790002006,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/people/2006"
+        }
+      }
+    },
+    "character": {
+      "id": 3006,
+      "url": "https://www.tvmaze.com/characters/3006/the-long-static-sigrid-holt",
+      "name": "Sigrid Holt",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/characters/3006"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

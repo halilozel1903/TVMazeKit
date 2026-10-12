@@ -1,0 +1,54 @@
+[
+  {
+    "score": 0.9561,
+    "person": {
+      "id": 2001,
+      "url": "https://www.tvmaze.com/people/2001/ingrid-solberg",
+      "name": "Ingrid Solberg",
+      "country": {
+        "name": "Norway",
+        "code": "NO",
+        "timezone": "Europe/Oslo"
+      },
+      "birthday": "1988-03-14",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/451/902001.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/451/902001.jpg"
+      },
+      "updated": 1790002001,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/people/2001"
+        }
+      }
+    }
+  },
+  {
+    "score": 0.4127,
+    "person": {
+      "id": 2006,
+      "url": "https://www.tvmaze.com/people/2006/anja-lindqvist",
+      "name": "Anja Lindqvist",
+      "country": {
+        "name": "Norway",
+        "code": "NO",
+        "timezone": "Europe/Oslo"
+      },
+      "birthday": "1990-12-01",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/451/902006.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/451/902006.jpg"
+      },
+      "updated": 1790002006,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/people/2006"
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,898 @@
+{
+  "id": 1001,
+  "url": "https://www.tvmaze.com/shows/1001/the-long-static",
+  "name": "The Long Static",
+  "type": "Scripted",
+  "language": "English",
+  "genres": [
+    "Drama",
+    "Science-Fiction",
+    "Mystery"
+  ],
+  "status": "Running",
+  "runtime": 52,
+  "averageRuntime": 52,
+  "premiered": "2025-01-16",
+  "ended": null,
+  "officialSite": "https://the-long-static.example/",
+  "schedule": {
+    "time": "21:00",
+    "days": [
+      "Thursday"
+    ]
+  },
+  "rating": {
+    "average": 8.6
+  },
+  "weight": 97,
+  "network": {
+    "id": 9001,
+    "name": "Northwind",
+    "country": {
+      "name": "United States",
+      "code": "US",
+      "timezone": "America/New_York"
+    },
+    "officialSite": "https://northwind.example/"
+  },
+  "webChannel": null,
+  "dvdCountry": null,
+  "externals": {
+    "tvrage": null,
+    "thetvdb": 498101,
+    "imdb": "tt9900101"
+  },
+  "image": {
+    "medium": "bundle://artwork/poster-1001.jpg",
+    "original": "bundle://artwork/poster-1001.jpg"
+  },
+  "summary": "<p><b>The Long Static</b> follows the night shift at Halvard Station, a polar research outpost where radio operator Maren Holt hears a voice on a frequency nobody has used in forty years. As a storm cuts the station off from the mainland, the crew has to decide whether the signal is a warning &mdash; or an invitation.</p>",
+  "updated": 1791201001,
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/shows/1001"
+    },
+    "previousepisode": {
+      "href": "https://api.tvmaze.com/episodes/100112",
+      "name": "The Relay"
+    },
+    "nextepisode": {
+      "href": "https://api.tvmaze.com/episodes/100113",
+      "name": "Interference"
+    }
+  },
+  "_embedded": {
+    "cast": [
+      {
+        "person": {
+          "id": 2001,
+          "url": "https://www.tvmaze.com/people/2001/ingrid-solberg",
+          "name": "Ingrid Solberg",
+          "country": {
+            "name": "Norway",
+            "code": "NO",
+            "timezone": "Europe/Oslo"
+          },
+          "birthday": "1988-03-14",
+          "deathday": null,
+          "gender": "Female",
+          "image": {
+            "medium": "bundle://artwork/person-2001.jpg",
+            "original": "bundle://artwork/person-2001.jpg"
+          },
+          "updated": 1790002001,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2001"
+            }
+          }
+        },
+        "character": {
+          "id": 3001,
+          "url": "https://www.tvmaze.com/characters/3001/the-long-static-maren-holt",
+          "name": "Maren Holt",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3001"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      },
+      {
+        "person": {
+          "id": 2002,
+          "url": "https://www.tvmaze.com/people/2002/marcus-adeyemi",
+          "name": "Marcus Adeyemi",
+          "country": {
+            "name": "United Kingdom",
+            "code": "GB",
+            "timezone": "Europe/London"
+          },
+          "birthday": "1985-11-02",
+          "deathday": null,
+          "gender": "Male",
+          "image": {
+            "medium": "bundle://artwork/person-2002.jpg",
+            "original": "bundle://artwork/person-2002.jpg"
+          },
+          "updated": 1790002002,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2002"
+            }
+          }
+        },
+        "character": {
+          "id": 3002,
+          "url": "https://www.tvmaze.com/characters/3002/the-long-static-theo-vance",
+          "name": "Theo Vance",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3002"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      },
+      {
+        "person": {
+          "id": 2003,
+          "url": "https://www.tvmaze.com/people/2003/helen-marsh",
+          "name": "Helen Marsh",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "birthday": "1971-06-21",
+          "deathday": null,
+          "gender": "Female",
+          "image": {
+            "medium": "bundle://artwork/person-2003.jpg",
+            "original": "bundle://artwork/person-2003.jpg"
+          },
+          "updated": 1790002003,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2003"
+            }
+          }
+        },
+        "character": {
+          "id": 3003,
+          "url": "https://www.tvmaze.com/characters/3003/the-long-static-dr-ruth-calloway",
+          "name": "Dr. Ruth Calloway",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3003"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      },
+      {
+        "person": {
+          "id": 2004,
+          "url": "https://www.tvmaze.com/people/2004/dmitri-katz",
+          "name": "Dmitri Katz",
+          "country": {
+            "name": "Canada",
+            "code": "CA",
+            "timezone": "America/Halifax"
+          },
+          "birthday": "1979-01-30",
+          "deathday": null,
+          "gender": "Male",
+          "image": {
+            "medium": "bundle://artwork/person-2004.jpg",
+            "original": "bundle://artwork/person-2004.jpg"
+          },
+          "updated": 1790002004,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2004"
+            }
+          }
+        },
+        "character": {
+          "id": 3004,
+          "url": "https://www.tvmaze.com/characters/3004/the-long-static-pavel-orlov",
+          "name": "Pavel Orlov",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3004"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      },
+      {
+        "person": {
+          "id": 2005,
+          "url": "https://www.tvmaze.com/people/2005/luis-ortega",
+          "name": "Luis Ortega",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "birthday": "1993-08-09",
+          "deathday": null,
+          "gender": "Male",
+          "image": {
+            "medium": "bundle://artwork/person-2005.jpg",
+            "original": "bundle://artwork/person-2005.jpg"
+          },
+          "updated": 1790002005,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2005"
+            }
+          }
+        },
+        "character": {
+          "id": 3005,
+          "url": "https://www.tvmaze.com/characters/3005/the-long-static-jonah-reyes",
+          "name": "Jonah Reyes",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3005"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      },
+      {
+        "person": {
+          "id": 2006,
+          "url": "https://www.tvmaze.com/people/2006/anja-lindqvist",
+          "name": "Anja Lindqvist",
+          "country": {
+            "name": "Norway",
+            "code": "NO",
+            "timezone": "Europe/Oslo"
+          },
+          "birthday": "1990-12-01",
+          "deathday": null,
+          "gender": "Female",
+          "image": {
+            "medium": "bundle://artwork/person-2006.jpg",
+            "original": "bundle://artwork/person-2006.jpg"
+          },
+          "updated": 1790002006,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2006"
+            }
+          }
+        },
+        "character": {
+          "id": 3006,
+          "url": "https://www.tvmaze.com/characters/3006/the-long-static-sigrid-holt",
+          "name": "Sigrid Holt",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3006"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      }
+    ],
+    "seasons": [
+      {
+        "id": 60011,
+        "url": "https://www.tvmaze.com/seasons/60011/the-long-static-season-1",
+        "number": 1,
+        "name": "",
+        "episodeOrder": 8,
+        "premiereDate": "2025-01-16",
+        "endDate": "2025-03-06",
+        "network": {
+          "id": 9001,
+          "name": "Northwind",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "officialSite": "https://northwind.example/"
+        },
+        "webChannel": null,
+        "image": {
+          "medium": "bundle://artwork/poster-1001.jpg",
+          "original": "bundle://artwork/poster-1001.jpg"
+        },
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/seasons/60011"
+          }
+        }
+      },
+      {
+        "id": 60012,
+        "url": "https://www.tvmaze.com/seasons/60012/the-long-static-season-2",
+        "number": 2,
+        "name": "",
+        "episodeOrder": 10,
+        "premiereDate": "2026-09-10",
+        "endDate": null,
+        "network": {
+          "id": 9001,
+          "name": "Northwind",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "officialSite": "https://northwind.example/"
+        },
+        "webChannel": null,
+        "image": {
+          "medium": "bundle://artwork/poster-1001.jpg",
+          "original": "bundle://artwork/poster-1001.jpg"
+        },
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/seasons/60012"
+          }
+        }
+      }
+    ],
+    "episodes": [
+      {
+        "id": 100101,
+        "url": "https://www.tvmaze.com/episodes/100101/the-long-static-1x01-halvard-station",
+        "name": "Halvard Station",
+        "season": 1,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2025-01-16",
+        "airtime": "21:00",
+        "airstamp": "2025-01-17T02:00:00+00:00",
+        "runtime": 52,
+        "rating": {
+          "average": 8.9
+        },
+        "image": {
+          "medium": "bundle://artwork/still-100101.jpg",
+          "original": "bundle://artwork/still-100101.jpg"
+        },
+        "summary": "<p>Maren Holt arrives at Halvard Station for a six-month posting and inherits a radio log with one page torn out.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100101"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1001",
+            "name": "The Long Static"
+          }
+        }
+      },
+      {
+        "id": 100102,
+        "url": "https://www.tvmaze.com/episodes/100102/the-long-static-1x02-whiteout",
+        "name": "Whiteout",
+        "season": 1,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2025-01-23",
+        "airtime": "21:00",
+        "airstamp": "2025-01-24T02:00:00+00:00",
+        "runtime": 52,
+        "rating": {
+          "average": 8.9
+        },
+        "image": {
+          "medium": "bundle://artwork/still-100102.jpg",
+          "original": "bundle://artwork/still-100102.jpg"
+        },
+        "summary": "<p>A storm cuts the station off from the mainland, and the generator starts failing at the same hour every night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100102"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1001",
+            "name": "The Long Static"
+          }
+        }
+      },
+      {
+        "id": 100103,
+        "url": "https://www.tvmaze.com/episodes/100103/the-long-static-1x03-northern-signal",
+        "name": "Northern Signal",
+        "season": 1,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2025-01-30",
+        "airtime": "21:00",
+        "airstamp": "2025-01-31T02:00:00+00:00",
+        "runtime": 52,
+        "rating": {
+          "average": 8.8
+        },
+        "image": {
+          "medium": "bundle://artwork/still-100103.jpg",
+          "original": "bundle://artwork/still-100103.jpg"
+        },
+        "summary": "<p>Maren hears a voice on a frequency nobody has used in forty years. It knows her name.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100103"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1001",
+            "name": "The Long Static"
+          }
+        }
+      },
+      {
+        "id": 100104,
+        "url": "https://www.tvmaze.com/episodes/100104/the-long-static-1x04-dead-reckoning",
+        "name": "Dead Reckoning",
+        "season": 1,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2025-02-06",
+        "airtime": "21:00",
+        "airstamp": "2025-02-07T02:00:00+00:00",
+        "runtime": 52,
+        "rating": {
+          "average": 8.7
+        },
+        "image": {
+          "medium": "bundle://artwork/still-100104.jpg",
+          "original": "bundle://artwork/still-100104.jpg"
+        },
+        "summary": "<p>Theo plots a course across the ice to a weather mast that should not be transmitting.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100104"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1001",
+            "name": "The Long Static"
+          }
+        }
+      },
+      {
+        "id": 100105,
+        "url": "https://www.tvmaze.com/episodes/100105/the-long-static-1x05-the-quiet-hours",
+        "name": "The Quiet Hours",
+        "season": 1,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2025-02-13",
+        "airtime": "21:00",
+        "airstamp": "2025-02-14T02:00:00+00:00",
+        "runtime": 52,
+        "rating": {
+          "average": 8.5
+        },
+        "image": {
+          "medium": "bundle://artwork/still-100105.jpg",
+          "original": "bundle://artwork/still-100105.jpg"
+        },
+        "summary": "<p>The crew counts the hours between broadcasts and finds a pattern that matches an old shipping forecast.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100105"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1001",
+            "name": "The Long Static"
+          }
+        }
+      },
+      {
+        "id": 100106,
+        "url": "https://www.tvmaze.com/episodes/100106/the-long-static-1x06-thaw",
+        "name": "Thaw",
+        "season": 1,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2025-02-20",
+        "airtime": "21:00",
+        "airstamp": "2025-02-21T02:00:00+00:00",
+        "runtime": 52,
+        "rating": {
+          "average": 8.5
+        },
+        "image": {
+          "medium": "bundle://artwork/still-100106.jpg",
+          "original": "bundle://artwork/still-100106.jpg"
+        },
+        "summary": "<p>Rising temperatures open a crevasse beneath the station's oldest hut.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100106"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1001",
+            "name": "The Long Static"
+          }
+        }
+      },
+      {
+        "id": 100107,
+        "url": "https://www.tvmaze.com/episodes/100107/the-long-static-1x07-below-the-ice",
+        "name": "Below the Ice",
+        "season": 1,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2025-02-27",
+        "airtime": "21:00",
+        "airstamp": "2025-02-28T02:00:00+00:00",
+        "runtime": 52,
+        "rating": {
+          "average": 8.1
+        },
+        "image": {
+          "medium": "bundle://artwork/still-100107.jpg",
+          "original": "bundle://artwork/still-100107.jpg"
+        },
+        "summary": "<p>Dr. Calloway leads a dive under the ice shelf and brings back something with a serial number.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100107"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1001",
+            "name": "The Long Static"
+          }
+        }
+      },
+      {
+        "id": 100108,
+        "url": "https://www.tvmaze.com/episodes/100108/the-long-static-1x08-daybreak",
+        "name": "Daybreak",
+        "season": 1,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2025-03-06",
+        "airtime": "21:00",
+        "airstamp": "2025-03-07T02:00:00+00:00",
+        "runtime": 52,
+        "rating": {
+          "average": 9.0
+        },
+        "image": {
+          "medium": "bundle://artwork/still-100108.jpg",
+          "original": "bundle://artwork/still-100108.jpg"
+        },
+        "summary": "<p>The supply plane lands at last, but only some of the crew want to leave.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100108"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1001",
+            "name": "The Long Static"
+          }
+        }
+      },
+      {
+        "id": 100109,
+        "url": "https://www.tvmaze.com/episodes/100109/the-long-static-2x01-second-winter",
+        "name": "Second Winter",
+        "season": 2,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2026-09-10",
+        "airtime": "21:00",
+        "airstamp": "2026-09-11T01:00:00+00:00",
+        "runtime": 52,
+        "rating": {
+          "average": 8.8
+        },
+        "image": {
+          "medium": "bundle://artwork/still-100109.jpg",
+          "original": "bundle://artwork/still-100109.jpg"
+        },
+        "summary": "<p>A year later, Maren returns to Halvard with a new crew and an old recording nobody else has heard.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100109"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1001",
+            "name": "The Long Static"
+          }
+        }
+      },
+      {
+        "id": 100110,
+        "url": "https://www.tvmaze.com/episodes/100110/the-long-static-2x02-call-sign",
+        "name": "Call Sign",
+        "season": 2,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2026-09-17",
+        "airtime": "21:00",
+        "airstamp": "2026-09-18T01:00:00+00:00",
+        "runtime": 52,
+        "rating": {
+          "average": 8.5
+        },
+        "image": {
+          "medium": "bundle://artwork/still-100110.jpg",
+          "original": "bundle://artwork/still-100110.jpg"
+        },
+        "summary": "<p>The station receives a call sign that was retired before any of them were born.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100110"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1001",
+            "name": "The Long Static"
+          }
+        }
+      },
+      {
+        "id": 100111,
+        "url": "https://www.tvmaze.com/episodes/100111/the-long-static-2x03-carrier-wave",
+        "name": "Carrier Wave",
+        "season": 2,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2026-09-24",
+        "airtime": "21:00",
+        "airstamp": "2026-09-25T01:00:00+00:00",
+        "runtime": 52,
+        "rating": {
+          "average": 8.4
+        },
+        "image": {
+          "medium": "bundle://artwork/still-100111.jpg",
+          "original": "bundle://artwork/still-100111.jpg"
+        },
+        "summary": "<p>Pavel builds a receiver from spare parts and picks up the signal three hours early.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100111"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1001",
+            "name": "The Long Static"
+          }
+        }
+      },
+      {
+        "id": 100112,
+        "url": "https://www.tvmaze.com/episodes/100112/the-long-static-2x04-the-relay",
+        "name": "The Relay",
+        "season": 2,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2026-10-01",
+        "airtime": "21:00",
+        "airstamp": "2026-10-02T01:00:00+00:00",
+        "runtime": 52,
+        "rating": {
+          "average": 8.6
+        },
+        "image": {
+          "medium": "bundle://artwork/still-100112.jpg",
+          "original": "bundle://artwork/still-100112.jpg"
+        },
+        "summary": "<p>A relay mast on the ridge goes dark, and Theo and Jonah are sent to find out why.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100112"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1001",
+            "name": "The Long Static"
+          }
+        }
+      },
+      {
+        "id": 100113,
+        "url": "https://www.tvmaze.com/episodes/100113/the-long-static-2x05-interference",
+        "name": "Interference",
+        "season": 2,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2026-10-08",
+        "airtime": "21:00",
+        "airstamp": "2026-10-09T01:00:00+00:00",
+        "runtime": 52,
+        "rating": {
+          "average": null
+        },
+        "image": {
+          "medium": "bundle://artwork/still-100113.jpg",
+          "original": "bundle://artwork/still-100113.jpg"
+        },
+        "summary": "<p>Interference from the storm scrambles every channel except one, and Maren has to choose who to trust with what it says.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100113"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1001",
+            "name": "The Long Static"
+          }
+        }
+      },
+      {
+        "id": 100114,
+        "url": "https://www.tvmaze.com/episodes/100114/the-long-static-2x06-polar-night",
+        "name": "Polar Night",
+        "season": 2,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2026-10-15",
+        "airtime": "21:00",
+        "airstamp": "2026-10-16T01:00:00+00:00",
+        "runtime": 52,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100114"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1001",
+            "name": "The Long Static"
+          }
+        }
+      },
+      {
+        "id": 100115,
+        "url": "https://www.tvmaze.com/episodes/100115/the-long-static-2x07-echo-location",
+        "name": "Echo Location",
+        "season": 2,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2026-10-22",
+        "airtime": "21:00",
+        "airstamp": "2026-10-23T01:00:00+00:00",
+        "runtime": 52,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100115"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1001",
+            "name": "The Long Static"
+          }
+        }
+      },
+      {
+        "id": 100116,
+        "url": "https://www.tvmaze.com/episodes/100116/the-long-static-2x08-black-ice",
+        "name": "Black Ice",
+        "season": 2,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2026-10-29",
+        "airtime": "21:00",
+        "airstamp": "2026-10-30T01:00:00+00:00",
+        "runtime": 52,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100116"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1001",
+            "name": "The Long Static"
+          }
+        }
+      },
+      {
+        "id": 100117,
+        "url": "https://www.tvmaze.com/episodes/100117/the-long-static-2x09-open-channel",
+        "name": "Open Channel",
+        "season": 2,
+        "number": 9,
+        "type": "regular",
+        "airdate": "2026-11-05",
+        "airtime": "21:00",
+        "airstamp": "2026-11-06T02:00:00+00:00",
+        "runtime": 52,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100117"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1001",
+            "name": "The Long Static"
+          }
+        }
+      },
+      {
+        "id": 100118,
+        "url": "https://www.tvmaze.com/episodes/100118/the-long-static-2x10-tba",
+        "name": "TBA",
+        "season": 2,
+        "number": 10,
+        "type": "regular",
+        "airdate": "",
+        "airtime": "",
+        "airstamp": null,
+        "runtime": 52,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100118"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1001",
+            "name": "The Long Static"
+          }
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 701001,
+        "type": "poster",
+        "main": true,
+        "resolutions": {
+          "original": {
+            "url": "bundle://artwork/poster-1001.jpg",
+            "width": 680,
+            "height": 1000
+          },
+          "medium": {
+            "url": "bundle://artwork/poster-1001.jpg",
+            "width": 210,
+            "height": 295
+          }
+        }
+      },
+      {
+        "id": 711001,
+        "type": "background",
+        "main": true,
+        "resolutions": {
+          "original": {
+            "url": "bundle://artwork/backdrop-1001.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    ]
+  }
+}

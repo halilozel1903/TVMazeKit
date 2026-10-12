@@ -1,0 +1,72 @@
+name: TVMazeKitDemo
+options:
+  bundleIdPrefix: io.github.halilozel1903
+  deploymentTarget:
+    iOS: "17.0"
+    tvOS: "17.0"
+packages:
+  TVMazeKit:
+    path: ..
+targets:
+  TonightTV:
+    type: application
+    platform: tvOS
+    sources:
+      - Shared
+      - TV
+    dependencies:
+      - package: TVMazeKit
+        product: TVMazeKit
+      - package: TVMazeKit
+        product: TVMazeUI
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: io.github.halilozel1903.TonightTV
+        GENERATE_INFOPLIST_FILE: YES
+        INFOPLIST_KEY_CFBundleDisplayName: Tonight
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        INFOPLIST_KEY_UIUserInterfaceStyle: Dark
+        # No asset catalog: a tvOS icon needs a layered App Icon & Top Shelf brand assets set,
+        # which a demo does not need, so the app builds without an icon.
+        ASSETCATALOG_COMPILER_APPICON_NAME: ""
+        MARKETING_VERSION: "1.0"
+        CURRENT_PROJECT_VERSION: "1"
+        SWIFT_VERSION: "6.0"
+        TARGETED_DEVICE_FAMILY: "3"
+  TonightPhone:
+    type: application
+    platform: iOS
+    sources:
+      - Shared
+      - Phone
+    dependencies:
+      - package: TVMazeKit
+        product: TVMazeKit
+      - package: TVMazeKit
+        product: TVMazeUI
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: io.github.halilozel1903.TonightPhone
+        GENERATE_INFOPLIST_FILE: YES
+        INFOPLIST_KEY_CFBundleDisplayName: Tonight
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        INFOPLIST_KEY_UIUserInterfaceStyle: Dark
+        INFOPLIST_KEY_UISupportedInterfaceOrientations: UIInterfaceOrientationPortrait
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        MARKETING_VERSION: "1.0"
+        CURRENT_PROJECT_VERSION: "1"
+        SWIFT_VERSION: "6.0"
+        TARGETED_DEVICE_FAMILY: "1"
+schemes:
+  TonightTV:
+    build:
+      targets:
+        TonightTV: all
+    run:
+      config: Debug
+  TonightPhone:
+    build:
+      targets:
+        TonightPhone: all
+    run:
+      config: Debug

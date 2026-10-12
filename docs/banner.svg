@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-label="TVMazeKit: a Swift client for the TVMaze API with a SwiftUI TV guide for Apple TV and iPhone" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpmN2Y5NmUyNy1lYzIwLTQ2ZjEtOTQxMC1mMzAwNjZjMDY0NGUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaBT8e6lyAdeVKQpx7F0n6lgAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0M2E4MzM2Yi0wZDk5LTQxYmMtOWYxNi1kNTkxMWQ2MWIyZmNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoA3UN6vQeSEK/3nuFkP+MOQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggZulcwHF9Tw2ORCl90jVLP46kV7qInLoo5xJ+O50ElSqkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaEc7MPnoMAK1xdiefb12d/gAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIAjCge6fXljidkRNM6yqDmtAm6ybyCVsY2CLN6pmosTdZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQENZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmY3Zjk2ZTI3LWVjMjAtNDZmMS05NDEwLWYzMDA2NmMwNjQ0ZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjY2YzJiYTg1LWU1YTUtNDZiNi05MmYyLTRkODczZjA2MTkwMHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBm6VzAcX1PDY5EKX3SNUs/jqRXuoicuijnEn47nQSVKqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg6QMn3nh0VIpo2DwgEwZ06XqNmz5jGm9eUDYaOKxj4QCiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggfIAgknsDHpmDd3osNaPZIv/lxMm7m+bnwzrDyERW5Yh0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQOs7VMJAb6GpkIn1vHWr52q+sXOOHm+RrbICz1dm5/vREOnehaW3krPavdp+iEFGKzjksMYBUGGHFVfUSFKBELM=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07061a"/>
+      <stop offset="1" stop-color="#141036"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#6b5cff" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#6b5cff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#03050f"/>
+      <stop offset="0.6" stop-color="#0a2a3a"/>
+      <stop offset="1" stop-color="#4d5a66"/>
+    </linearGradient>
+    <linearGradient id="aurora" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3ff2a8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#3ff2a8" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#6c8cff" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#090913" stop-opacity="0.95"/>
+      <stop offset="0.7" stop-color="#090913" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="p1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b2340"/><stop offset="0.6" stop-color="#c9786b"/><stop offset="1" stop-color="#162238"/></linearGradient>
+    <linearGradient id="p2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#12002b"/><stop offset="0.55" stop-color="#ff4fa3"/><stop offset="1" stop-color="#0b0018"/></linearGradient>
+    <linearGradient id="p3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7c873"/><stop offset="0.5" stop-color="#e0814a"/><stop offset="1" stop-color="#3a0d1a"/></linearGradient>
+    <linearGradient id="p4" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0c1c24"/><stop offset="1" stop-color="#5ce1e6"/></linearGradient>
+    <linearGradient id="p5" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1d0b4a"/><stop offset="1" stop-color="#ff8c42"/></linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="40"/></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="8"/></filter>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000" flood-opacity="0.6"/>
+    </filter>
+    <clipPath id="screen"><rect x="600" y="64" width="560" height="315" rx="10"/></clipPath>
+    <clipPath id="phone"><rect x="1062" y="214" width="150" height="310" rx="22"/></clipPath>
+  </defs>
+
+  <rect width="1280" height="560" fill="url(#bg)"/>
+  <circle cx="900" cy="260" r="300" fill="url(#glow)" filter="url(#blur)"/>
+
+  <g font-family="-apple-system, 'SF Pro Display', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <text x="80" y="222" fill="#ffffff" font-size="60" font-weight="800" letter-spacing="-1.5">TVMazeKit</text>
+    <text x="82" y="270" fill="#d6d3f5" font-size="22" font-weight="500">A typed Swift client for the TVMaze API</text>
+    <text x="82" y="302" fill="#a5a1cc" font-size="17" font-weight="500">Shows · episodes · seasons · cast · schedule · search</text>
+    <g font-size="16" font-weight="600">
+      <rect x="82" y="338" width="122" height="34" rx="17" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="143" y="360" fill="#e2e8f0" text-anchor="middle">async/await</text>
+      <rect x="214" y="338" width="96" height="34" rx="17" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="262" y="360" fill="#e2e8f0" text-anchor="middle">SwiftUI</text>
+      <rect x="320" y="338" width="68" height="34" rx="17" fill="#ffd666" fill-opacity="0.16" stroke="#ffd666" stroke-opacity="0.6"/>
+      <text x="354" y="360" fill="#ffe7a3" text-anchor="middle">tvOS</text>
+      <rect x="398" y="338" width="58" height="34" rx="17" fill="#ffd666" fill-opacity="0.16" stroke="#ffd666" stroke-opacity="0.6"/>
+      <text x="427" y="360" fill="#ffe7a3" text-anchor="middle">iOS</text>
+      <rect x="466" y="338" width="96" height="34" rx="17" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="514" y="360" fill="#e2e8f0" text-anchor="middle">Swift 6</text>
+    </g>
+    <text x="82" y="424" fill="#77739e" font-size="14" font-weight="500">Data provided by TVmaze.com (CC BY-SA)</text>
+  </g>
+
+  <!-- Apple TV: the Tonight home screen. -->
+  <g filter="url(#shadow)">
+    <rect x="590" y="54" width="580" height="335" rx="16" fill="#0d0f14" stroke="#2a2f3a" stroke-width="2"/>
+  </g>
+  <g clip-path="url(#screen)">
+    <rect x="600" y="64" width="560" height="315" fill="#090913"/>
+    <rect x="600" y="64" width="560" height="190" fill="url(#hero)"/>
+    <path d="M600 120 C 700 90, 800 150, 900 115 S 1080 95, 1160 130 L 1160 160 C 1080 130, 980 175, 900 150 S 700 135, 600 160 Z" fill="url(#aurora)" filter="url(#soft)"/>
+    <circle cx="1100" cy="92" r="9" fill="#f2f6ff"/>
+    <path d="M600 254 L600 200 L680 176 L760 196 L840 168 L920 190 L1000 172 L1080 194 L1160 180 L1160 254 Z" fill="#7f97a8"/>
+    <path d="M600 254 L600 226 L720 214 L840 230 L960 210 L1080 226 L1160 216 L1160 254 Z" fill="#1c2833"/>
+    <rect x="600" y="64" width="560" height="190" fill="url(#fade)"/>
+    <g font-family="-apple-system, 'SF Pro Display', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+      <text x="624" y="96" fill="#ffd666" font-size="10" font-weight="900" letter-spacing="3">☾ TONIGHT</text>
+      <text x="624" y="122" fill="#ffd666" font-size="10" font-weight="600">Tonight 9:00 PM on Northwind · S2 · E5</text>
+      <text x="624" y="152" fill="#ffffff" font-size="26" font-weight="800">The Long Static</text>
+      <text x="624" y="172" fill="#cbd5e1" font-size="10" font-weight="500">★ 8.6 · 2025– · 52 min · Drama, Science-Fiction</text>
+      <rect x="624" y="186" width="96" height="22" rx="11" fill="#ffffff"/>
+      <text x="672" y="201" fill="#000" font-size="10" font-weight="700" text-anchor="middle">Episodes &amp; Cast</text>
+      <text x="624" y="276" fill="#ffffff" font-size="13" font-weight="700">Airing tonight</text>
+    </g>
+    <g>
+      <rect x="624" y="288" width="58" height="81" rx="6" fill="url(#p1)"/>
+      <rect x="694" y="288" width="58" height="81" rx="6" fill="url(#p2)"/>
+      <rect x="764" y="288" width="58" height="81" rx="6" fill="url(#p3)"/>
+      <rect x="834" y="288" width="58" height="81" rx="6" fill="url(#p4)"/>
+      <rect x="904" y="288" width="58" height="81" rx="6" fill="url(#p5)"/>
+      <rect x="974" y="288" width="58" height="81" rx="6" fill="url(#p1)"/>
+      <rect x="1044" y="288" width="58" height="81" rx="6" fill="url(#p3)"/>
+      <circle cx="653" cy="320" r="10" fill="#fff2c4" opacity="0.8"/>
+      <circle cx="723" cy="322" r="12" fill="#ffb347"/>
+      <circle cx="793" cy="318" r="10" fill="#fff1c2"/>
+      <path d="M856 300 L863 360 L870 300 Z" fill="#dcf5ff" opacity="0.8"/>
+      <circle cx="933" cy="326" r="13" fill="#ff8c42"/>
+      <ellipse cx="933" cy="326" rx="22" ry="5" fill="none" stroke="#ffd27a" stroke-width="1.5"/>
+    </g>
+  </g>
+
+  <!-- iPhone: the schedule. -->
+  <g filter="url(#shadow)">
+    <rect x="1054" y="206" width="166" height="326" rx="28" fill="#0d0f14" stroke="#2a2f3a" stroke-width="2"/>
+  </g>
+  <g clip-path="url(#phone)">
+    <rect x="1062" y="214" width="150" height="310" fill="#09091a"/>
+    <g font-family="-apple-system, 'SF Pro Display', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+      <text x="1074" y="252" fill="#ffffff" font-size="17" font-weight="800">Tonight</text>
+      <rect x="1074" y="262" width="126" height="16" rx="5" fill="#1d1d33"/>
+      <rect x="1075" y="263" width="62" height="14" rx="4" fill="#3a3a5c"/>
+      <text x="1106" y="273" fill="#fff" font-size="7" font-weight="700" text-anchor="middle">TV</text>
+      <text x="1168" y="273" fill="#a5a1cc" font-size="7" font-weight="600" text-anchor="middle">Streaming</text>
+      <text x="1074" y="296" fill="#a5a1cc" font-size="8" font-weight="700">8:00 PM</text>
+      <rect x="1074" y="302" width="18" height="25" rx="3" fill="url(#p1)"/>
+      <text x="1098" y="312" fill="#fff" font-size="8" font-weight="700">Harbor Lights</text>
+      <text x="1098" y="322" fill="#a5a1cc" font-size="7">S3 · E6 · Meridian</text>
+      <rect x="1074" y="334" width="18" height="25" rx="3" fill="url(#p4)"/>
+      <text x="1098" y="344" fill="#fff" font-size="8" font-weight="700">Deep Field</text>
+      <text x="1098" y="354" fill="#a5a1cc" font-size="7">S1 · E4 · Atlas Channel</text>
+      <text x="1074" y="378" fill="#a5a1cc" font-size="8" font-weight="700">9:00 PM</text>
+      <rect x="1074" y="384" width="18" height="25" rx="3" fill="url(#hero)"/>
+      <text x="1098" y="394" fill="#fff" font-size="8" font-weight="700">The Long Static</text>
+      <text x="1098" y="404" fill="#a5a1cc" font-size="7">S2 · E5 · Northwind</text>
+      <rect x="1074" y="416" width="18" height="25" rx="3" fill="url(#p4)"/>
+      <text x="1098" y="426" fill="#fff" font-size="8" font-weight="700">Glasshouse</text>
+      <text x="1098" y="436" fill="#a5a1cc" font-size="7">S1 · E5 · Meridian</text>
+      <text x="1074" y="460" fill="#a5a1cc" font-size="8" font-weight="700">10:00 PM</text>
+      <rect x="1074" y="466" width="18" height="25" rx="3" fill="url(#p3)"/>
+      <text x="1098" y="476" fill="#fff" font-size="8" font-weight="700">Copper &amp; Vine</text>
+      <text x="1098" y="486" fill="#a5a1cc" font-size="7">S2 · E3 · Northwind</text>
+    </g>
+  </g>
+</svg>

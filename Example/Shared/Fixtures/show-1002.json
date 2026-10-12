@@ -1,0 +1,1141 @@
+{
+  "id": 1002,
+  "url": "https://www.tvmaze.com/shows/1002/harbor-lights",
+  "name": "Harbor Lights",
+  "type": "Scripted",
+  "language": "English",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "status": "Running",
+  "runtime": 44,
+  "averageRuntime": 44,
+  "premiered": "2024-09-19",
+  "ended": null,
+  "officialSite": "https://harbor-lights.example/",
+  "schedule": {
+    "time": "20:00",
+    "days": [
+      "Thursday"
+    ]
+  },
+  "rating": {
+    "average": 7.4
+  },
+  "weight": 88,
+  "network": {
+    "id": 9002,
+    "name": "Meridian",
+    "country": {
+      "name": "United States",
+      "code": "US",
+      "timezone": "America/New_York"
+    },
+    "officialSite": "https://meridian.example/"
+  },
+  "webChannel": null,
+  "dvdCountry": null,
+  "externals": {
+    "tvrage": null,
+    "thetvdb": 498102,
+    "imdb": "tt9900102"
+  },
+  "image": {
+    "medium": "bundle://artwork/poster-1002.jpg",
+    "original": "bundle://artwork/poster-1002.jpg"
+  },
+  "summary": "<p>Three generations of the Calder family run the last ferry line on a fog-bound island, and every crossing brings someone back who was supposed to stay away.</p>",
+  "updated": 1791201002,
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/shows/1002"
+    },
+    "previousepisode": {
+      "href": "https://api.tvmaze.com/episodes/100229",
+      "name": "Night Moves"
+    },
+    "nextepisode": {
+      "href": "https://api.tvmaze.com/episodes/100230",
+      "name": "Undertow"
+    }
+  },
+  "_embedded": {
+    "cast": [
+      {
+        "person": {
+          "id": 2010,
+          "url": "https://www.tvmaze.com/people/2010/bastian-pacheco",
+          "name": "Bastian Pacheco",
+          "country": {
+            "name": "Germany",
+            "code": "DE",
+            "timezone": "Europe/Berlin"
+          },
+          "birthday": "1989-08-08",
+          "deathday": null,
+          "gender": "Female",
+          "image": {
+            "medium": "bundle://artwork/person-2010.jpg",
+            "original": "bundle://artwork/person-2010.jpg"
+          },
+          "updated": 1790002010,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2010"
+            }
+          }
+        },
+        "character": {
+          "id": 3007,
+          "url": "https://www.tvmaze.com/characters/3007/harbor-lights-rhys-hart",
+          "name": "Rhys Hart",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3007"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      },
+      {
+        "person": {
+          "id": 2011,
+          "url": "https://www.tvmaze.com/people/2011/kwame-ferraro",
+          "name": "Kwame Ferraro",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "birthday": "1977-03-10",
+          "deathday": null,
+          "gender": "Female",
+          "image": {
+            "medium": "bundle://artwork/person-2011.jpg",
+            "original": "bundle://artwork/person-2011.jpg"
+          },
+          "updated": 1790002011,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2011"
+            }
+          }
+        },
+        "character": {
+          "id": 3008,
+          "url": "https://www.tvmaze.com/characters/3008/harbor-lights-ada-shaw",
+          "name": "Ada Shaw",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3008"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      },
+      {
+        "person": {
+          "id": 2012,
+          "url": "https://www.tvmaze.com/people/2012/sofia-lindell",
+          "name": "Sofia Lindell",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "birthday": "1988-06-07",
+          "deathday": null,
+          "gender": "Female",
+          "image": {
+            "medium": "bundle://artwork/person-2012.jpg",
+            "original": "bundle://artwork/person-2012.jpg"
+          },
+          "updated": 1790002012,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2012"
+            }
+          }
+        },
+        "character": {
+          "id": 3009,
+          "url": "https://www.tvmaze.com/characters/3009/harbor-lights-pia-voss",
+          "name": "Pia Voss",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3009"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      },
+      {
+        "person": {
+          "id": 2013,
+          "url": "https://www.tvmaze.com/people/2013/felix-calder",
+          "name": "Felix Calder",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "birthday": "1961-07-26",
+          "deathday": null,
+          "gender": "Male",
+          "image": {
+            "medium": "bundle://artwork/person-2013.jpg",
+            "original": "bundle://artwork/person-2013.jpg"
+          },
+          "updated": 1790002013,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2013"
+            }
+          }
+        },
+        "character": {
+          "id": 3010,
+          "url": "https://www.tvmaze.com/characters/3010/harbor-lights-jack-hart",
+          "name": "Jack Hart",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3010"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      },
+      {
+        "person": {
+          "id": 2014,
+          "url": "https://www.tvmaze.com/people/2014/mei-marsh",
+          "name": "Mei Marsh",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "birthday": "1995-07-07",
+          "deathday": null,
+          "gender": "Male",
+          "image": {
+            "medium": "bundle://artwork/person-2014.jpg",
+            "original": "bundle://artwork/person-2014.jpg"
+          },
+          "updated": 1790002014,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2014"
+            }
+          }
+        },
+        "character": {
+          "id": 3011,
+          "url": "https://www.tvmaze.com/characters/3011/harbor-lights-rhys-calder",
+          "name": "Rhys Calder",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3011"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      }
+    ],
+    "seasons": [
+      {
+        "id": 60021,
+        "url": "https://www.tvmaze.com/seasons/60021/harbor-lights-season-1",
+        "number": 1,
+        "name": "",
+        "episodeOrder": 12,
+        "premiereDate": "2024-09-19",
+        "endDate": "2024-12-05",
+        "network": {
+          "id": 9002,
+          "name": "Meridian",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "officialSite": "https://meridian.example/"
+        },
+        "webChannel": null,
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/seasons/60021"
+          }
+        }
+      },
+      {
+        "id": 60022,
+        "url": "https://www.tvmaze.com/seasons/60022/harbor-lights-season-2",
+        "number": 2,
+        "name": "",
+        "episodeOrder": 12,
+        "premiereDate": "2025-09-18",
+        "endDate": "2025-12-04",
+        "network": {
+          "id": 9002,
+          "name": "Meridian",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "officialSite": "https://meridian.example/"
+        },
+        "webChannel": null,
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/seasons/60022"
+          }
+        }
+      },
+      {
+        "id": 60023,
+        "url": "https://www.tvmaze.com/seasons/60023/harbor-lights-season-3",
+        "number": 3,
+        "name": "",
+        "episodeOrder": 6,
+        "premiereDate": "2026-09-03",
+        "endDate": "2026-10-08",
+        "network": {
+          "id": 9002,
+          "name": "Meridian",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "officialSite": "https://meridian.example/"
+        },
+        "webChannel": null,
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/seasons/60023"
+          }
+        }
+      }
+    ],
+    "episodes": [
+      {
+        "id": 100201,
+        "url": "https://www.tvmaze.com/episodes/100201/harbor-lights-1x01-pilot",
+        "name": "Pilot",
+        "season": 1,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2024-09-19",
+        "airtime": "20:00",
+        "airstamp": "2024-09-20T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.5
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Pia goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100201"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100202,
+        "url": "https://www.tvmaze.com/episodes/100202/harbor-lights-1x02-fault-lines",
+        "name": "Fault Lines",
+        "season": 1,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2024-09-26",
+        "airtime": "20:00",
+        "airstamp": "2024-09-27T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.2
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Jack has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100202"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100203,
+        "url": "https://www.tvmaze.com/episodes/100203/harbor-lights-1x03-backfire",
+        "name": "Backfire",
+        "season": 1,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2024-10-03",
+        "airtime": "20:00",
+        "airstamp": "2024-10-04T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.2
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Kit has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100203"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100204,
+        "url": "https://www.tvmaze.com/episodes/100204/harbor-lights-1x04-blind-spot",
+        "name": "Blind Spot",
+        "season": 1,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2024-10-10",
+        "airtime": "20:00",
+        "airstamp": "2024-10-11T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.1
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Tess finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100204"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100205,
+        "url": "https://www.tvmaze.com/episodes/100205/harbor-lights-1x05-full-circle",
+        "name": "Full Circle",
+        "season": 1,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2024-10-17",
+        "airtime": "20:00",
+        "airstamp": "2024-10-18T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.2
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Leo has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100205"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100206,
+        "url": "https://www.tvmaze.com/episodes/100206/harbor-lights-1x06-rearview",
+        "name": "Rearview",
+        "season": 1,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2024-10-24",
+        "airtime": "20:00",
+        "airstamp": "2024-10-25T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.4
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Jack finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100206"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100207,
+        "url": "https://www.tvmaze.com/episodes/100207/harbor-lights-1x07-daylight",
+        "name": "Daylight",
+        "season": 1,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2024-10-31",
+        "airtime": "20:00",
+        "airstamp": "2024-11-01T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.6
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Rhys finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100207"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100208,
+        "url": "https://www.tvmaze.com/episodes/100208/harbor-lights-1x08-afterglow",
+        "name": "Afterglow",
+        "season": 1,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2024-11-07",
+        "airtime": "20:00",
+        "airstamp": "2024-11-08T01:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.1
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Pia has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100208"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100209,
+        "url": "https://www.tvmaze.com/episodes/100209/harbor-lights-1x09-old-debts",
+        "name": "Old Debts",
+        "season": 1,
+        "number": 9,
+        "type": "regular",
+        "airdate": "2024-11-14",
+        "airtime": "20:00",
+        "airstamp": "2024-11-15T01:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.9
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Pia goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100209"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100210,
+        "url": "https://www.tvmaze.com/episodes/100210/harbor-lights-1x10-small-hours",
+        "name": "Small Hours",
+        "season": 1,
+        "number": 10,
+        "type": "regular",
+        "airdate": "2024-11-21",
+        "airtime": "20:00",
+        "airstamp": "2024-11-22T01:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.6
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Leo finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100210"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100211,
+        "url": "https://www.tvmaze.com/episodes/100211/harbor-lights-1x11-signal-fire",
+        "name": "Signal Fire",
+        "season": 1,
+        "number": 11,
+        "type": "regular",
+        "airdate": "2024-11-28",
+        "airtime": "20:00",
+        "airstamp": "2024-11-29T01:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 6.8
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Mara finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100211"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100212,
+        "url": "https://www.tvmaze.com/episodes/100212/harbor-lights-1x12-dead-air",
+        "name": "Dead Air",
+        "season": 1,
+        "number": 12,
+        "type": "regular",
+        "airdate": "2024-12-05",
+        "airtime": "20:00",
+        "airstamp": "2024-12-06T01:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.4
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Rhys goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100212"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100213,
+        "url": "https://www.tvmaze.com/episodes/100213/harbor-lights-2x01-undertow",
+        "name": "Undertow",
+        "season": 2,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2025-09-18",
+        "airtime": "20:00",
+        "airstamp": "2025-09-19T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.5
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Pia has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100213"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100214,
+        "url": "https://www.tvmaze.com/episodes/100214/harbor-lights-2x02-homecoming",
+        "name": "Homecoming",
+        "season": 2,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2025-09-25",
+        "airtime": "20:00",
+        "airstamp": "2025-09-26T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.5
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Pia goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100214"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100215,
+        "url": "https://www.tvmaze.com/episodes/100215/harbor-lights-2x03-crossfire",
+        "name": "Crossfire",
+        "season": 2,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2025-10-02",
+        "airtime": "20:00",
+        "airstamp": "2025-10-03T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.4
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Leo finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100215"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100216,
+        "url": "https://www.tvmaze.com/episodes/100216/harbor-lights-2x04-breaking-even",
+        "name": "Breaking Even",
+        "season": 2,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2025-10-09",
+        "airtime": "20:00",
+        "airstamp": "2025-10-10T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.3
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Mara finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100216"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100217,
+        "url": "https://www.tvmaze.com/episodes/100217/harbor-lights-2x05-outliers",
+        "name": "Outliers",
+        "season": 2,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2025-10-16",
+        "airtime": "20:00",
+        "airstamp": "2025-10-17T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.8
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Rhys goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100217"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100218,
+        "url": "https://www.tvmaze.com/episodes/100218/harbor-lights-2x06-low-tide",
+        "name": "Low Tide",
+        "season": 2,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2025-10-23",
+        "airtime": "20:00",
+        "airstamp": "2025-10-24T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.2
+        },
+        "image": null,
+        "summary": "<p>Lou gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100218"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100219,
+        "url": "https://www.tvmaze.com/episodes/100219/harbor-lights-2x07-fault-lines",
+        "name": "Fault Lines",
+        "season": 2,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2025-10-30",
+        "airtime": "20:00",
+        "airstamp": "2025-10-31T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.5
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Kit has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100219"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100220,
+        "url": "https://www.tvmaze.com/episodes/100220/harbor-lights-2x08-backfire",
+        "name": "Backfire",
+        "season": 2,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2025-11-06",
+        "airtime": "20:00",
+        "airstamp": "2025-11-07T01:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.4
+        },
+        "image": null,
+        "summary": "<p>Gus gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100220"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100221,
+        "url": "https://www.tvmaze.com/episodes/100221/harbor-lights-2x09-blind-spot",
+        "name": "Blind Spot",
+        "season": 2,
+        "number": 9,
+        "type": "regular",
+        "airdate": "2025-11-13",
+        "airtime": "20:00",
+        "airstamp": "2025-11-14T01:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.3
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Tess goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100221"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100222,
+        "url": "https://www.tvmaze.com/episodes/100222/harbor-lights-2x10-full-circle",
+        "name": "Full Circle",
+        "season": 2,
+        "number": 10,
+        "type": "regular",
+        "airdate": "2025-11-20",
+        "airtime": "20:00",
+        "airstamp": "2025-11-21T01:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.9
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Ada finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100222"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100223,
+        "url": "https://www.tvmaze.com/episodes/100223/harbor-lights-2x11-rearview",
+        "name": "Rearview",
+        "season": 2,
+        "number": 11,
+        "type": "regular",
+        "airdate": "2025-11-27",
+        "airtime": "20:00",
+        "airstamp": "2025-11-28T01:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.9
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Rhys goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100223"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100224,
+        "url": "https://www.tvmaze.com/episodes/100224/harbor-lights-2x12-daylight",
+        "name": "Daylight",
+        "season": 2,
+        "number": 12,
+        "type": "regular",
+        "airdate": "2025-12-04",
+        "airtime": "20:00",
+        "airstamp": "2025-12-05T01:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 8.0
+        },
+        "image": null,
+        "summary": "<p>Tess gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100224"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100225,
+        "url": "https://www.tvmaze.com/episodes/100225/harbor-lights-3x01-last-call",
+        "name": "Last Call",
+        "season": 3,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2026-09-03",
+        "airtime": "20:00",
+        "airstamp": "2026-09-04T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.2
+        },
+        "image": null,
+        "summary": "<p>Gus gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100225"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100226,
+        "url": "https://www.tvmaze.com/episodes/100226/harbor-lights-3x02-safe-harbor",
+        "name": "Safe Harbor",
+        "season": 3,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2026-09-10",
+        "airtime": "20:00",
+        "airstamp": "2026-09-11T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.6
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Tess goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100226"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100227,
+        "url": "https://www.tvmaze.com/episodes/100227/harbor-lights-3x03-first-light",
+        "name": "First Light",
+        "season": 3,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2026-09-17",
+        "airtime": "20:00",
+        "airstamp": "2026-09-18T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.0
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Ada finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100227"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100228,
+        "url": "https://www.tvmaze.com/episodes/100228/harbor-lights-3x04-the-long-way-home",
+        "name": "The Long Way Home",
+        "season": 3,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2026-09-24",
+        "airtime": "20:00",
+        "airstamp": "2026-09-25T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 8.0
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Rhys goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100228"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100229,
+        "url": "https://www.tvmaze.com/episodes/100229/harbor-lights-3x05-night-moves",
+        "name": "Night Moves",
+        "season": 3,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2026-10-01",
+        "airtime": "20:00",
+        "airstamp": "2026-10-02T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": 7.1
+        },
+        "image": null,
+        "summary": "<p>Tess gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100229"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      },
+      {
+        "id": 100230,
+        "url": "https://www.tvmaze.com/episodes/100230/harbor-lights-3x06-undertow",
+        "name": "Undertow",
+        "season": 3,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2026-10-08",
+        "airtime": "20:00",
+        "airstamp": "2026-10-09T00:00:00+00:00",
+        "runtime": 44,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": "<p>Wes gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100230"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1002",
+            "name": "Harbor Lights"
+          }
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 701002,
+        "type": "poster",
+        "main": true,
+        "resolutions": {
+          "original": {
+            "url": "bundle://artwork/poster-1002.jpg",
+            "width": 680,
+            "height": 1000
+          },
+          "medium": {
+            "url": "bundle://artwork/poster-1002.jpg",
+            "width": 210,
+            "height": 295
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,449 @@
+{
+  "id": 1015,
+  "url": "https://www.tvmaze.com/shows/1015/nightjar",
+  "name": "Nightjar",
+  "type": "Scripted",
+  "language": "English",
+  "genres": [
+    "Thriller",
+    "Espionage"
+  ],
+  "status": "Running",
+  "runtime": 47,
+  "averageRuntime": 47,
+  "premiered": "2026-10-08",
+  "ended": null,
+  "officialSite": "https://nightjar.example/",
+  "schedule": {
+    "time": "",
+    "days": []
+  },
+  "rating": {
+    "average": 8.1
+  },
+  "weight": 89,
+  "network": null,
+  "webChannel": {
+    "id": 9101,
+    "name": "Lumen+",
+    "country": null,
+    "officialSite": "https://lumen.example/"
+  },
+  "dvdCountry": null,
+  "externals": {
+    "tvrage": null,
+    "thetvdb": 498115,
+    "imdb": "tt9900115"
+  },
+  "image": {
+    "medium": "bundle://artwork/poster-1015.jpg",
+    "original": "bundle://artwork/poster-1015.jpg"
+  },
+  "summary": "<p>An analyst who only works nights is pulled into the field when the agency's best source goes silent.</p>",
+  "updated": 1791201015,
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/shows/1015"
+    },
+    "nextepisode": {
+      "href": "https://api.tvmaze.com/episodes/101501",
+      "name": "Pilot"
+    }
+  },
+  "_embedded": {
+    "cast": [
+      {
+        "person": {
+          "id": 2080,
+          "url": "https://www.tvmaze.com/people/2080/priya-ward",
+          "name": "Priya Ward",
+          "country": {
+            "name": "Canada",
+            "code": "CA",
+            "timezone": "America/Halifax"
+          },
+          "birthday": "1983-07-25",
+          "deathday": null,
+          "gender": "Female",
+          "image": {
+            "medium": "bundle://artwork/person-2080.jpg",
+            "original": "bundle://artwork/person-2080.jpg"
+          },
+          "updated": 1790002080,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2080"
+            }
+          }
+        },
+        "character": {
+          "id": 3064,
+          "url": "https://www.tvmaze.com/characters/3064/nightjar-abe-pike",
+          "name": "Abe Pike",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3064"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      },
+      {
+        "person": {
+          "id": 2081,
+          "url": "https://www.tvmaze.com/people/2081/hugo-brooks",
+          "name": "Hugo Brooks",
+          "country": {
+            "name": "United Kingdom",
+            "code": "GB",
+            "timezone": "Europe/London"
+          },
+          "birthday": "1970-12-02",
+          "deathday": null,
+          "gender": "Male",
+          "image": {
+            "medium": "bundle://artwork/person-2081.jpg",
+            "original": "bundle://artwork/person-2081.jpg"
+          },
+          "updated": 1790002081,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2081"
+            }
+          }
+        },
+        "character": {
+          "id": 3065,
+          "url": "https://www.tvmaze.com/characters/3065/nightjar-rhys-lowell",
+          "name": "Rhys Lowell",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3065"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      },
+      {
+        "person": {
+          "id": 2082,
+          "url": "https://www.tvmaze.com/people/2082/caleb-byrne",
+          "name": "Caleb Byrne",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "birthday": "1962-07-01",
+          "deathday": null,
+          "gender": "Female",
+          "image": {
+            "medium": "bundle://artwork/person-2082.jpg",
+            "original": "bundle://artwork/person-2082.jpg"
+          },
+          "updated": 1790002082,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2082"
+            }
+          }
+        },
+        "character": {
+          "id": 3066,
+          "url": "https://www.tvmaze.com/characters/3066/nightjar-pia-calder",
+          "name": "Pia Calder",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3066"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      },
+      {
+        "person": {
+          "id": 2083,
+          "url": "https://www.tvmaze.com/people/2083/amara-mehta",
+          "name": "Amara Mehta",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "birthday": "1997-12-04",
+          "deathday": null,
+          "gender": "Female",
+          "image": {
+            "medium": "bundle://artwork/person-2083.jpg",
+            "original": "bundle://artwork/person-2083.jpg"
+          },
+          "updated": 1790002083,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2083"
+            }
+          }
+        },
+        "character": {
+          "id": 3067,
+          "url": "https://www.tvmaze.com/characters/3067/nightjar-rhys-pike",
+          "name": "Rhys Pike",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3067"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      },
+      {
+        "person": {
+          "id": 2084,
+          "url": "https://www.tvmaze.com/people/2084/idris-tanaka",
+          "name": "Idris Tanaka",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "birthday": "1975-10-11",
+          "deathday": null,
+          "gender": "Male",
+          "image": {
+            "medium": "bundle://artwork/person-2084.jpg",
+            "original": "bundle://artwork/person-2084.jpg"
+          },
+          "updated": 1790002084,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2084"
+            }
+          }
+        },
+        "character": {
+          "id": 3068,
+          "url": "https://www.tvmaze.com/characters/3068/nightjar-cole-quill",
+          "name": "Cole Quill",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3068"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      }
+    ],
+    "seasons": [
+      {
+        "id": 60151,
+        "url": "https://www.tvmaze.com/seasons/60151/nightjar-season-1",
+        "number": 1,
+        "name": "",
+        "episodeOrder": 6,
+        "premiereDate": "2026-10-08",
+        "endDate": "2026-10-08",
+        "network": null,
+        "webChannel": {
+          "id": 9101,
+          "name": "Lumen+",
+          "country": null,
+          "officialSite": "https://lumen.example/"
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/seasons/60151"
+          }
+        }
+      }
+    ],
+    "episodes": [
+      {
+        "id": 101501,
+        "url": "https://www.tvmaze.com/episodes/101501/nightjar-1x01-pilot",
+        "name": "Pilot",
+        "season": 1,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2026-10-08",
+        "airtime": "",
+        "airstamp": "2026-10-08T12:00:00+00:00",
+        "runtime": 47,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Lou goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/101501"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1015",
+            "name": "Nightjar"
+          }
+        }
+      },
+      {
+        "id": 101502,
+        "url": "https://www.tvmaze.com/episodes/101502/nightjar-1x02-full-circle",
+        "name": "Full Circle",
+        "season": 1,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2026-10-08",
+        "airtime": "",
+        "airstamp": "2026-10-08T12:00:00+00:00",
+        "runtime": 47,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": "<p>Rhys gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/101502"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1015",
+            "name": "Nightjar"
+          }
+        }
+      },
+      {
+        "id": 101503,
+        "url": "https://www.tvmaze.com/episodes/101503/nightjar-1x03-rearview",
+        "name": "Rearview",
+        "season": 1,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2026-10-08",
+        "airtime": "",
+        "airstamp": "2026-10-08T12:00:00+00:00",
+        "runtime": 47,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Mara goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/101503"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1015",
+            "name": "Nightjar"
+          }
+        }
+      },
+      {
+        "id": 101504,
+        "url": "https://www.tvmaze.com/episodes/101504/nightjar-1x04-daylight",
+        "name": "Daylight",
+        "season": 1,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2026-10-08",
+        "airtime": "",
+        "airstamp": "2026-10-08T12:00:00+00:00",
+        "runtime": 47,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Wes finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/101504"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1015",
+            "name": "Nightjar"
+          }
+        }
+      },
+      {
+        "id": 101505,
+        "url": "https://www.tvmaze.com/episodes/101505/nightjar-1x05-afterglow",
+        "name": "Afterglow",
+        "season": 1,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2026-10-08",
+        "airtime": "",
+        "airstamp": "2026-10-08T12:00:00+00:00",
+        "runtime": 47,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Lou has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/101505"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1015",
+            "name": "Nightjar"
+          }
+        }
+      },
+      {
+        "id": 101506,
+        "url": "https://www.tvmaze.com/episodes/101506/nightjar-1x06-old-debts",
+        "name": "Old Debts",
+        "season": 1,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2026-10-08",
+        "airtime": "",
+        "airstamp": "2026-10-08T12:00:00+00:00",
+        "runtime": 47,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Cole finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/101506"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1015",
+            "name": "Nightjar"
+          }
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 701015,
+        "type": "poster",
+        "main": true,
+        "resolutions": {
+          "original": {
+            "url": "bundle://artwork/poster-1015.jpg",
+            "width": 680,
+            "height": 1000
+          },
+          "medium": {
+            "url": "bundle://artwork/poster-1015.jpg",
+            "width": 210,
+            "height": 295
+          }
+        }
+      }
+    ]
+  }
+}

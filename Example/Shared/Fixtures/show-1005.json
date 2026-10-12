@@ -1,0 +1,854 @@
+{
+  "id": 1005,
+  "url": "https://www.tvmaze.com/shows/1005/copper-vine",
+  "name": "Copper & Vine",
+  "type": "Scripted",
+  "language": "English",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "status": "Running",
+  "runtime": 55,
+  "averageRuntime": 55,
+  "premiered": "2025-09-25",
+  "ended": null,
+  "officialSite": "https://copper-vine.example/",
+  "schedule": {
+    "time": "22:00",
+    "days": [
+      "Thursday"
+    ]
+  },
+  "rating": {
+    "average": 8.0
+  },
+  "weight": 90,
+  "network": {
+    "id": 9001,
+    "name": "Northwind",
+    "country": {
+      "name": "United States",
+      "code": "US",
+      "timezone": "America/New_York"
+    },
+    "officialSite": "https://northwind.example/"
+  },
+  "webChannel": null,
+  "dvdCountry": null,
+  "externals": {
+    "tvrage": null,
+    "thetvdb": 498105,
+    "imdb": "tt9900105"
+  },
+  "image": {
+    "medium": "bundle://artwork/poster-1005.jpg",
+    "original": "bundle://artwork/poster-1005.jpg"
+  },
+  "summary": "<p>A winemaking dynasty in a sun-baked valley hides a decades-old disappearance under its oldest vines.</p>",
+  "updated": 1791201005,
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/shows/1005"
+    },
+    "previousepisode": {
+      "href": "https://api.tvmaze.com/episodes/100512",
+      "name": "Open Water"
+    },
+    "nextepisode": {
+      "href": "https://api.tvmaze.com/episodes/100513",
+      "name": "Parallax"
+    }
+  },
+  "_embedded": {
+    "cast": [
+      {
+        "person": {
+          "id": 2026,
+          "url": "https://www.tvmaze.com/people/2026/saoirse-lambert",
+          "name": "Saoirse Lambert",
+          "country": {
+            "name": "Germany",
+            "code": "DE",
+            "timezone": "Europe/Berlin"
+          },
+          "birthday": "1978-09-17",
+          "deathday": null,
+          "gender": "Female",
+          "image": {
+            "medium": "bundle://artwork/person-2026.jpg",
+            "original": "bundle://artwork/person-2026.jpg"
+          },
+          "updated": 1790002026,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2026"
+            }
+          }
+        },
+        "character": {
+          "id": 3020,
+          "url": "https://www.tvmaze.com/characters/3020/copper-vine-nell-dunn",
+          "name": "Nell Dunn",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3020"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      },
+      {
+        "person": {
+          "id": 2027,
+          "url": "https://www.tvmaze.com/people/2027/hanna-ward",
+          "name": "Hanna Ward",
+          "country": {
+            "name": "Germany",
+            "code": "DE",
+            "timezone": "Europe/Berlin"
+          },
+          "birthday": "1987-02-01",
+          "deathday": null,
+          "gender": "Female",
+          "image": {
+            "medium": "bundle://artwork/person-2027.jpg",
+            "original": "bundle://artwork/person-2027.jpg"
+          },
+          "updated": 1790002027,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2027"
+            }
+          }
+        },
+        "character": {
+          "id": 3021,
+          "url": "https://www.tvmaze.com/characters/3021/copper-vine-kit-pike",
+          "name": "Kit Pike",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3021"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      },
+      {
+        "person": {
+          "id": 2028,
+          "url": "https://www.tvmaze.com/people/2028/tomas-mehta",
+          "name": "Tomas Mehta",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "birthday": "1969-12-01",
+          "deathday": null,
+          "gender": "Male",
+          "image": {
+            "medium": "bundle://artwork/person-2028.jpg",
+            "original": "bundle://artwork/person-2028.jpg"
+          },
+          "updated": 1790002028,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2028"
+            }
+          }
+        },
+        "character": {
+          "id": 3022,
+          "url": "https://www.tvmaze.com/characters/3022/copper-vine-sam-lowell",
+          "name": "Sam Lowell",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3022"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      },
+      {
+        "person": {
+          "id": 2029,
+          "url": "https://www.tvmaze.com/people/2029/freya-falk",
+          "name": "Freya Falk",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "birthday": "1988-03-24",
+          "deathday": null,
+          "gender": "Male",
+          "image": {
+            "medium": "bundle://artwork/person-2029.jpg",
+            "original": "bundle://artwork/person-2029.jpg"
+          },
+          "updated": 1790002029,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2029"
+            }
+          }
+        },
+        "character": {
+          "id": 3023,
+          "url": "https://www.tvmaze.com/characters/3023/copper-vine-mara-calder",
+          "name": "Mara Calder",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3023"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      },
+      {
+        "person": {
+          "id": 2030,
+          "url": "https://www.tvmaze.com/people/2030/victor-marsh",
+          "name": "Victor Marsh",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "birthday": "1982-06-17",
+          "deathday": null,
+          "gender": "Male",
+          "image": {
+            "medium": "bundle://artwork/person-2030.jpg",
+            "original": "bundle://artwork/person-2030.jpg"
+          },
+          "updated": 1790002030,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2030"
+            }
+          }
+        },
+        "character": {
+          "id": 3024,
+          "url": "https://www.tvmaze.com/characters/3024/copper-vine-wes-calder",
+          "name": "Wes Calder",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3024"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      }
+    ],
+    "seasons": [
+      {
+        "id": 60051,
+        "url": "https://www.tvmaze.com/seasons/60051/copper-vine-season-1",
+        "number": 1,
+        "name": "",
+        "episodeOrder": 10,
+        "premiereDate": "2025-09-25",
+        "endDate": "2025-11-27",
+        "network": {
+          "id": 9001,
+          "name": "Northwind",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "officialSite": "https://northwind.example/"
+        },
+        "webChannel": null,
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/seasons/60051"
+          }
+        }
+      },
+      {
+        "id": 60052,
+        "url": "https://www.tvmaze.com/seasons/60052/copper-vine-season-2",
+        "number": 2,
+        "name": "",
+        "episodeOrder": 10,
+        "premiereDate": "2026-09-24",
+        "endDate": "2026-11-26",
+        "network": {
+          "id": 9001,
+          "name": "Northwind",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "officialSite": "https://northwind.example/"
+        },
+        "webChannel": null,
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/seasons/60052"
+          }
+        }
+      }
+    ],
+    "episodes": [
+      {
+        "id": 100501,
+        "url": "https://www.tvmaze.com/episodes/100501/copper-vine-1x01-pilot",
+        "name": "Pilot",
+        "season": 1,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2025-09-25",
+        "airtime": "22:00",
+        "airstamp": "2025-09-26T02:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": 7.7
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Abe goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100501"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      },
+      {
+        "id": 100502,
+        "url": "https://www.tvmaze.com/episodes/100502/copper-vine-1x02-last-call",
+        "name": "Last Call",
+        "season": 1,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2025-10-02",
+        "airtime": "22:00",
+        "airstamp": "2025-10-03T02:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": 7.6
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when June finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100502"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      },
+      {
+        "id": 100503,
+        "url": "https://www.tvmaze.com/episodes/100503/copper-vine-1x03-safe-harbor",
+        "name": "Safe Harbor",
+        "season": 1,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2025-10-09",
+        "airtime": "22:00",
+        "airstamp": "2025-10-10T02:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": 7.5
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Jack finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100503"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      },
+      {
+        "id": 100504,
+        "url": "https://www.tvmaze.com/episodes/100504/copper-vine-1x04-first-light",
+        "name": "First Light",
+        "season": 1,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2025-10-16",
+        "airtime": "22:00",
+        "airstamp": "2025-10-17T02:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": 8.5
+        },
+        "image": null,
+        "summary": "<p>Vera gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100504"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      },
+      {
+        "id": 100505,
+        "url": "https://www.tvmaze.com/episodes/100505/copper-vine-1x05-the-long-way-home",
+        "name": "The Long Way Home",
+        "season": 1,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2025-10-23",
+        "airtime": "22:00",
+        "airstamp": "2025-10-24T02:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": 8.3
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Jack has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100505"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      },
+      {
+        "id": 100506,
+        "url": "https://www.tvmaze.com/episodes/100506/copper-vine-1x06-night-moves",
+        "name": "Night Moves",
+        "season": 1,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2025-10-30",
+        "airtime": "22:00",
+        "airstamp": "2025-10-31T02:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": 8.5
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Gus goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100506"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      },
+      {
+        "id": 100507,
+        "url": "https://www.tvmaze.com/episodes/100507/copper-vine-1x07-undertow",
+        "name": "Undertow",
+        "season": 1,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2025-11-06",
+        "airtime": "22:00",
+        "airstamp": "2025-11-07T03:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": 8.1
+        },
+        "image": null,
+        "summary": "<p>Jack gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100507"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      },
+      {
+        "id": 100508,
+        "url": "https://www.tvmaze.com/episodes/100508/copper-vine-1x08-homecoming",
+        "name": "Homecoming",
+        "season": 1,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2025-11-13",
+        "airtime": "22:00",
+        "airstamp": "2025-11-14T03:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": 7.6
+        },
+        "image": null,
+        "summary": "<p>Sam gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100508"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      },
+      {
+        "id": 100509,
+        "url": "https://www.tvmaze.com/episodes/100509/copper-vine-1x09-crossfire",
+        "name": "Crossfire",
+        "season": 1,
+        "number": 9,
+        "type": "regular",
+        "airdate": "2025-11-20",
+        "airtime": "22:00",
+        "airstamp": "2025-11-21T03:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": 7.9
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Nell finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100509"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      },
+      {
+        "id": 100510,
+        "url": "https://www.tvmaze.com/episodes/100510/copper-vine-1x10-breaking-even",
+        "name": "Breaking Even",
+        "season": 1,
+        "number": 10,
+        "type": "regular",
+        "airdate": "2025-11-27",
+        "airtime": "22:00",
+        "airstamp": "2025-11-28T03:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": 7.9
+        },
+        "image": null,
+        "summary": "<p>Kit gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100510"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      },
+      {
+        "id": 100511,
+        "url": "https://www.tvmaze.com/episodes/100511/copper-vine-2x01-groundwork",
+        "name": "Groundwork",
+        "season": 2,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2026-09-24",
+        "airtime": "22:00",
+        "airstamp": "2026-09-25T02:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": 8.5
+        },
+        "image": null,
+        "summary": "<p>Sam gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100511"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      },
+      {
+        "id": 100512,
+        "url": "https://www.tvmaze.com/episodes/100512/copper-vine-2x02-open-water",
+        "name": "Open Water",
+        "season": 2,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2026-10-01",
+        "airtime": "22:00",
+        "airstamp": "2026-10-02T02:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": 8.4
+        },
+        "image": null,
+        "summary": "<p>Old loyalties are tested when Nell finds out what really happened that night.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100512"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      },
+      {
+        "id": 100513,
+        "url": "https://www.tvmaze.com/episodes/100513/copper-vine-2x03-parallax",
+        "name": "Parallax",
+        "season": 2,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2026-10-08",
+        "airtime": "22:00",
+        "airstamp": "2026-10-09T02:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": "<p>Kit gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100513"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      },
+      {
+        "id": 100514,
+        "url": "https://www.tvmaze.com/episodes/100514/copper-vine-2x04-paper-trail",
+        "name": "Paper Trail",
+        "season": 2,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2026-10-15",
+        "airtime": "22:00",
+        "airstamp": "2026-10-16T02:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100514"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      },
+      {
+        "id": 100515,
+        "url": "https://www.tvmaze.com/episodes/100515/copper-vine-2x05-cold-open",
+        "name": "Cold Open",
+        "season": 2,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2026-10-22",
+        "airtime": "22:00",
+        "airstamp": "2026-10-23T02:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100515"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      },
+      {
+        "id": 100516,
+        "url": "https://www.tvmaze.com/episodes/100516/copper-vine-2x06-the-inventory",
+        "name": "The Inventory",
+        "season": 2,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2026-10-29",
+        "airtime": "22:00",
+        "airstamp": "2026-10-30T02:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100516"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      },
+      {
+        "id": 100517,
+        "url": "https://www.tvmaze.com/episodes/100517/copper-vine-2x07-last-call",
+        "name": "Last Call",
+        "season": 2,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2026-11-05",
+        "airtime": "22:00",
+        "airstamp": "2026-11-06T03:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100517"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      },
+      {
+        "id": 100518,
+        "url": "https://www.tvmaze.com/episodes/100518/copper-vine-2x08-safe-harbor",
+        "name": "Safe Harbor",
+        "season": 2,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2026-11-12",
+        "airtime": "22:00",
+        "airstamp": "2026-11-13T03:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100518"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      },
+      {
+        "id": 100519,
+        "url": "https://www.tvmaze.com/episodes/100519/copper-vine-2x09-first-light",
+        "name": "First Light",
+        "season": 2,
+        "number": 9,
+        "type": "regular",
+        "airdate": "2026-11-19",
+        "airtime": "22:00",
+        "airstamp": "2026-11-20T03:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100519"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      },
+      {
+        "id": 100520,
+        "url": "https://www.tvmaze.com/episodes/100520/copper-vine-2x10-the-long-way-home",
+        "name": "The Long Way Home",
+        "season": 2,
+        "number": 10,
+        "type": "regular",
+        "airdate": "2026-11-26",
+        "airtime": "22:00",
+        "airstamp": "2026-11-27T03:00:00+00:00",
+        "runtime": 55,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/100520"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1005",
+            "name": "Copper & Vine"
+          }
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 701005,
+        "type": "poster",
+        "main": true,
+        "resolutions": {
+          "original": {
+            "url": "bundle://artwork/poster-1005.jpg",
+            "width": 680,
+            "height": 1000
+          },
+          "medium": {
+            "url": "bundle://artwork/poster-1005.jpg",
+            "width": 210,
+            "height": 295
+          }
+        }
+      }
+    ]
+  }
+}

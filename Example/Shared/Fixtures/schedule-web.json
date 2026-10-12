@@ -1,0 +1,1267 @@
+[
+  {
+    "id": 100309,
+    "url": "https://www.tvmaze.com/episodes/100309/ctrl-alt-delight-2x01-full-circle",
+    "name": "Full Circle",
+    "season": 2,
+    "number": 1,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "",
+    "airstamp": "2026-10-08T12:00:00+00:00",
+    "runtime": 28,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>With the clock running out, Iris goes looking for answers in the last place anyone would expect.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/100309"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1003",
+        "name": "Ctrl+Alt+Delight"
+      }
+    },
+    "_embedded": {
+      "show": {
+        "id": 1003,
+        "url": "https://www.tvmaze.com/shows/1003/ctrl-alt-delight",
+        "name": "Ctrl+Alt+Delight",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+          "Comedy"
+        ],
+        "status": "Running",
+        "runtime": 28,
+        "averageRuntime": 28,
+        "premiered": "2025-10-09",
+        "ended": null,
+        "officialSite": "https://ctrl-alt-delight.example/",
+        "schedule": {
+          "time": "",
+          "days": [
+            "Thursday"
+          ]
+        },
+        "rating": {
+          "average": 7.9
+        },
+        "weight": 91,
+        "network": null,
+        "webChannel": {
+          "id": 9101,
+          "name": "Lumen+",
+          "country": null,
+          "officialSite": "https://lumen.example/"
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 498103,
+          "imdb": "tt9900103"
+        },
+        "image": {
+          "medium": "bundle://artwork/poster-1003.jpg",
+          "original": "bundle://artwork/poster-1003.jpg"
+        },
+        "summary": "<p>A help desk of five misfits keeps a struggling games studio online, one catastrophic patch at a time.</p><p><i>Ctrl+Alt+Delight</i> is Lumen+&#39;s first original comedy.</p>",
+        "updated": 1791201003,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/1003"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/100308",
+            "name": "Ghost Notes"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/100309",
+            "name": "Full Circle"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 100310,
+    "url": "https://www.tvmaze.com/episodes/100310/ctrl-alt-delight-2x02-rearview",
+    "name": "Rearview",
+    "season": 2,
+    "number": 2,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "",
+    "airstamp": "2026-10-08T12:00:00+00:00",
+    "runtime": 28,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>Leo gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/100310"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1003",
+        "name": "Ctrl+Alt+Delight"
+      }
+    },
+    "_embedded": {
+      "show": {
+        "id": 1003,
+        "url": "https://www.tvmaze.com/shows/1003/ctrl-alt-delight",
+        "name": "Ctrl+Alt+Delight",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+          "Comedy"
+        ],
+        "status": "Running",
+        "runtime": 28,
+        "averageRuntime": 28,
+        "premiered": "2025-10-09",
+        "ended": null,
+        "officialSite": "https://ctrl-alt-delight.example/",
+        "schedule": {
+          "time": "",
+          "days": [
+            "Thursday"
+          ]
+        },
+        "rating": {
+          "average": 7.9
+        },
+        "weight": 91,
+        "network": null,
+        "webChannel": {
+          "id": 9101,
+          "name": "Lumen+",
+          "country": null,
+          "officialSite": "https://lumen.example/"
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 498103,
+          "imdb": "tt9900103"
+        },
+        "image": {
+          "medium": "bundle://artwork/poster-1003.jpg",
+          "original": "bundle://artwork/poster-1003.jpg"
+        },
+        "summary": "<p>A help desk of five misfits keeps a struggling games studio online, one catastrophic patch at a time.</p><p><i>Ctrl+Alt+Delight</i> is Lumen+&#39;s first original comedy.</p>",
+        "updated": 1791201003,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/1003"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/100308",
+            "name": "Ghost Notes"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/100309",
+            "name": "Full Circle"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 100311,
+    "url": "https://www.tvmaze.com/episodes/100311/ctrl-alt-delight-2x03-daylight",
+    "name": "Daylight",
+    "season": 2,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "",
+    "airstamp": "2026-10-08T12:00:00+00:00",
+    "runtime": 28,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>Old loyalties are tested when Kit finds out what really happened that night.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/100311"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1003",
+        "name": "Ctrl+Alt+Delight"
+      }
+    },
+    "_embedded": {
+      "show": {
+        "id": 1003,
+        "url": "https://www.tvmaze.com/shows/1003/ctrl-alt-delight",
+        "name": "Ctrl+Alt+Delight",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+          "Comedy"
+        ],
+        "status": "Running",
+        "runtime": 28,
+        "averageRuntime": 28,
+        "premiered": "2025-10-09",
+        "ended": null,
+        "officialSite": "https://ctrl-alt-delight.example/",
+        "schedule": {
+          "time": "",
+          "days": [
+            "Thursday"
+          ]
+        },
+        "rating": {
+          "average": 7.9
+        },
+        "weight": 91,
+        "network": null,
+        "webChannel": {
+          "id": 9101,
+          "name": "Lumen+",
+          "country": null,
+          "officialSite": "https://lumen.example/"
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 498103,
+          "imdb": "tt9900103"
+        },
+        "image": {
+          "medium": "bundle://artwork/poster-1003.jpg",
+          "original": "bundle://artwork/poster-1003.jpg"
+        },
+        "summary": "<p>A help desk of five misfits keeps a struggling games studio online, one catastrophic patch at a time.</p><p><i>Ctrl+Alt+Delight</i> is Lumen+&#39;s first original comedy.</p>",
+        "updated": 1791201003,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/1003"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/100308",
+            "name": "Ghost Notes"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/100309",
+            "name": "Full Circle"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 100312,
+    "url": "https://www.tvmaze.com/episodes/100312/ctrl-alt-delight-2x04-afterglow",
+    "name": "Afterglow",
+    "season": 2,
+    "number": 4,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "",
+    "airstamp": "2026-10-08T12:00:00+00:00",
+    "runtime": 28,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>June gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/100312"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1003",
+        "name": "Ctrl+Alt+Delight"
+      }
+    },
+    "_embedded": {
+      "show": {
+        "id": 1003,
+        "url": "https://www.tvmaze.com/shows/1003/ctrl-alt-delight",
+        "name": "Ctrl+Alt+Delight",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+          "Comedy"
+        ],
+        "status": "Running",
+        "runtime": 28,
+        "averageRuntime": 28,
+        "premiered": "2025-10-09",
+        "ended": null,
+        "officialSite": "https://ctrl-alt-delight.example/",
+        "schedule": {
+          "time": "",
+          "days": [
+            "Thursday"
+          ]
+        },
+        "rating": {
+          "average": 7.9
+        },
+        "weight": 91,
+        "network": null,
+        "webChannel": {
+          "id": 9101,
+          "name": "Lumen+",
+          "country": null,
+          "officialSite": "https://lumen.example/"
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 498103,
+          "imdb": "tt9900103"
+        },
+        "image": {
+          "medium": "bundle://artwork/poster-1003.jpg",
+          "original": "bundle://artwork/poster-1003.jpg"
+        },
+        "summary": "<p>A help desk of five misfits keeps a struggling games studio online, one catastrophic patch at a time.</p><p><i>Ctrl+Alt+Delight</i> is Lumen+&#39;s first original comedy.</p>",
+        "updated": 1791201003,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/1003"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/100308",
+            "name": "Ghost Notes"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/100309",
+            "name": "Full Circle"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 100313,
+    "url": "https://www.tvmaze.com/episodes/100313/ctrl-alt-delight-2x05-old-debts",
+    "name": "Old Debts",
+    "season": 2,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "",
+    "airstamp": "2026-10-08T12:00:00+00:00",
+    "runtime": 28,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>Old loyalties are tested when Pia finds out what really happened that night.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/100313"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1003",
+        "name": "Ctrl+Alt+Delight"
+      }
+    },
+    "_embedded": {
+      "show": {
+        "id": 1003,
+        "url": "https://www.tvmaze.com/shows/1003/ctrl-alt-delight",
+        "name": "Ctrl+Alt+Delight",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+          "Comedy"
+        ],
+        "status": "Running",
+        "runtime": 28,
+        "averageRuntime": 28,
+        "premiered": "2025-10-09",
+        "ended": null,
+        "officialSite": "https://ctrl-alt-delight.example/",
+        "schedule": {
+          "time": "",
+          "days": [
+            "Thursday"
+          ]
+        },
+        "rating": {
+          "average": 7.9
+        },
+        "weight": 91,
+        "network": null,
+        "webChannel": {
+          "id": 9101,
+          "name": "Lumen+",
+          "country": null,
+          "officialSite": "https://lumen.example/"
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 498103,
+          "imdb": "tt9900103"
+        },
+        "image": {
+          "medium": "bundle://artwork/poster-1003.jpg",
+          "original": "bundle://artwork/poster-1003.jpg"
+        },
+        "summary": "<p>A help desk of five misfits keeps a struggling games studio online, one catastrophic patch at a time.</p><p><i>Ctrl+Alt+Delight</i> is Lumen+&#39;s first original comedy.</p>",
+        "updated": 1791201003,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/1003"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/100308",
+            "name": "Ghost Notes"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/100309",
+            "name": "Full Circle"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 100314,
+    "url": "https://www.tvmaze.com/episodes/100314/ctrl-alt-delight-2x06-small-hours",
+    "name": "Small Hours",
+    "season": 2,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "",
+    "airstamp": "2026-10-08T12:00:00+00:00",
+    "runtime": 28,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>Tess gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/100314"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1003",
+        "name": "Ctrl+Alt+Delight"
+      }
+    },
+    "_embedded": {
+      "show": {
+        "id": 1003,
+        "url": "https://www.tvmaze.com/shows/1003/ctrl-alt-delight",
+        "name": "Ctrl+Alt+Delight",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+          "Comedy"
+        ],
+        "status": "Running",
+        "runtime": 28,
+        "averageRuntime": 28,
+        "premiered": "2025-10-09",
+        "ended": null,
+        "officialSite": "https://ctrl-alt-delight.example/",
+        "schedule": {
+          "time": "",
+          "days": [
+            "Thursday"
+          ]
+        },
+        "rating": {
+          "average": 7.9
+        },
+        "weight": 91,
+        "network": null,
+        "webChannel": {
+          "id": 9101,
+          "name": "Lumen+",
+          "country": null,
+          "officialSite": "https://lumen.example/"
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 498103,
+          "imdb": "tt9900103"
+        },
+        "image": {
+          "medium": "bundle://artwork/poster-1003.jpg",
+          "original": "bundle://artwork/poster-1003.jpg"
+        },
+        "summary": "<p>A help desk of five misfits keeps a struggling games studio online, one catastrophic patch at a time.</p><p><i>Ctrl+Alt+Delight</i> is Lumen+&#39;s first original comedy.</p>",
+        "updated": 1791201003,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/1003"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/100308",
+            "name": "Ghost Notes"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/100309",
+            "name": "Full Circle"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 100315,
+    "url": "https://www.tvmaze.com/episodes/100315/ctrl-alt-delight-2x07-signal-fire",
+    "name": "Signal Fire",
+    "season": 2,
+    "number": 7,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "",
+    "airstamp": "2026-10-08T12:00:00+00:00",
+    "runtime": 28,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>Old loyalties are tested when Lou finds out what really happened that night.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/100315"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1003",
+        "name": "Ctrl+Alt+Delight"
+      }
+    },
+    "_embedded": {
+      "show": {
+        "id": 1003,
+        "url": "https://www.tvmaze.com/shows/1003/ctrl-alt-delight",
+        "name": "Ctrl+Alt+Delight",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+          "Comedy"
+        ],
+        "status": "Running",
+        "runtime": 28,
+        "averageRuntime": 28,
+        "premiered": "2025-10-09",
+        "ended": null,
+        "officialSite": "https://ctrl-alt-delight.example/",
+        "schedule": {
+          "time": "",
+          "days": [
+            "Thursday"
+          ]
+        },
+        "rating": {
+          "average": 7.9
+        },
+        "weight": 91,
+        "network": null,
+        "webChannel": {
+          "id": 9101,
+          "name": "Lumen+",
+          "country": null,
+          "officialSite": "https://lumen.example/"
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 498103,
+          "imdb": "tt9900103"
+        },
+        "image": {
+          "medium": "bundle://artwork/poster-1003.jpg",
+          "original": "bundle://artwork/poster-1003.jpg"
+        },
+        "summary": "<p>A help desk of five misfits keeps a struggling games studio online, one catastrophic patch at a time.</p><p><i>Ctrl+Alt+Delight</i> is Lumen+&#39;s first original comedy.</p>",
+        "updated": 1791201003,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/1003"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/100308",
+            "name": "Ghost Notes"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/100309",
+            "name": "Full Circle"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 100316,
+    "url": "https://www.tvmaze.com/episodes/100316/ctrl-alt-delight-2x08-dead-air",
+    "name": "Dead Air",
+    "season": 2,
+    "number": 8,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "",
+    "airstamp": "2026-10-08T12:00:00+00:00",
+    "runtime": 28,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>Nora gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/100316"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1003",
+        "name": "Ctrl+Alt+Delight"
+      }
+    },
+    "_embedded": {
+      "show": {
+        "id": 1003,
+        "url": "https://www.tvmaze.com/shows/1003/ctrl-alt-delight",
+        "name": "Ctrl+Alt+Delight",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+          "Comedy"
+        ],
+        "status": "Running",
+        "runtime": 28,
+        "averageRuntime": 28,
+        "premiered": "2025-10-09",
+        "ended": null,
+        "officialSite": "https://ctrl-alt-delight.example/",
+        "schedule": {
+          "time": "",
+          "days": [
+            "Thursday"
+          ]
+        },
+        "rating": {
+          "average": 7.9
+        },
+        "weight": 91,
+        "network": null,
+        "webChannel": {
+          "id": 9101,
+          "name": "Lumen+",
+          "country": null,
+          "officialSite": "https://lumen.example/"
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 498103,
+          "imdb": "tt9900103"
+        },
+        "image": {
+          "medium": "bundle://artwork/poster-1003.jpg",
+          "original": "bundle://artwork/poster-1003.jpg"
+        },
+        "summary": "<p>A help desk of five misfits keeps a struggling games studio online, one catastrophic patch at a time.</p><p><i>Ctrl+Alt+Delight</i> is Lumen+&#39;s first original comedy.</p>",
+        "updated": 1791201003,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/1003"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/100308",
+            "name": "Ghost Notes"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/100309",
+            "name": "Full Circle"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 101605,
+    "url": "https://www.tvmaze.com/episodes/101605/night-market-diaries-1x05-seoul",
+    "name": "Seoul",
+    "season": 1,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "",
+    "airstamp": "2026-10-08T12:00:00+00:00",
+    "runtime": 30,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>Nora gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/101605"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1016",
+        "name": "Night Market Diaries"
+      }
+    },
+    "_embedded": {
+      "show": {
+        "id": 1016,
+        "url": "https://www.tvmaze.com/shows/1016/night-market-diaries",
+        "name": "Night Market Diaries",
+        "type": "Reality",
+        "language": "English",
+        "genres": [
+          "Food",
+          "Travel"
+        ],
+        "status": "Running",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "2026-09-10",
+        "ended": null,
+        "officialSite": "https://night-market-diaries.example/",
+        "schedule": {
+          "time": "",
+          "days": [
+            "Thursday"
+          ]
+        },
+        "rating": {
+          "average": 7.2
+        },
+        "weight": 68,
+        "network": null,
+        "webChannel": {
+          "id": 9102,
+          "name": "Driftwave",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "officialSite": "https://driftwave.example/"
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 498116,
+          "imdb": "tt9900116"
+        },
+        "image": {
+          "medium": "bundle://artwork/poster-1016.jpg",
+          "original": "bundle://artwork/poster-1016.jpg"
+        },
+        "summary": "<p>Street-food cooks from twelve cities open their stalls after dark and let the cameras in.</p>",
+        "updated": 1791201016,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/1016"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/101604",
+            "name": "Mexico City"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/101605",
+            "name": "Seoul"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 101501,
+    "url": "https://www.tvmaze.com/episodes/101501/nightjar-1x01-pilot",
+    "name": "Pilot",
+    "season": 1,
+    "number": 1,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "",
+    "airstamp": "2026-10-08T12:00:00+00:00",
+    "runtime": 47,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>With the clock running out, Lou goes looking for answers in the last place anyone would expect.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/101501"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1015",
+        "name": "Nightjar"
+      }
+    },
+    "_embedded": {
+      "show": {
+        "id": 1015,
+        "url": "https://www.tvmaze.com/shows/1015/nightjar",
+        "name": "Nightjar",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+          "Thriller",
+          "Espionage"
+        ],
+        "status": "Running",
+        "runtime": 47,
+        "averageRuntime": 47,
+        "premiered": "2026-10-08",
+        "ended": null,
+        "officialSite": "https://nightjar.example/",
+        "schedule": {
+          "time": "",
+          "days": []
+        },
+        "rating": {
+          "average": 8.1
+        },
+        "weight": 89,
+        "network": null,
+        "webChannel": {
+          "id": 9101,
+          "name": "Lumen+",
+          "country": null,
+          "officialSite": "https://lumen.example/"
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 498115,
+          "imdb": "tt9900115"
+        },
+        "image": {
+          "medium": "bundle://artwork/poster-1015.jpg",
+          "original": "bundle://artwork/poster-1015.jpg"
+        },
+        "summary": "<p>An analyst who only works nights is pulled into the field when the agency's best source goes silent.</p>",
+        "updated": 1791201015,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/1015"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/101501",
+            "name": "Pilot"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 101502,
+    "url": "https://www.tvmaze.com/episodes/101502/nightjar-1x02-full-circle",
+    "name": "Full Circle",
+    "season": 1,
+    "number": 2,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "",
+    "airstamp": "2026-10-08T12:00:00+00:00",
+    "runtime": 47,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>Rhys gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/101502"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1015",
+        "name": "Nightjar"
+      }
+    },
+    "_embedded": {
+      "show": {
+        "id": 1015,
+        "url": "https://www.tvmaze.com/shows/1015/nightjar",
+        "name": "Nightjar",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+          "Thriller",
+          "Espionage"
+        ],
+        "status": "Running",
+        "runtime": 47,
+        "averageRuntime": 47,
+        "premiered": "2026-10-08",
+        "ended": null,
+        "officialSite": "https://nightjar.example/",
+        "schedule": {
+          "time": "",
+          "days": []
+        },
+        "rating": {
+          "average": 8.1
+        },
+        "weight": 89,
+        "network": null,
+        "webChannel": {
+          "id": 9101,
+          "name": "Lumen+",
+          "country": null,
+          "officialSite": "https://lumen.example/"
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 498115,
+          "imdb": "tt9900115"
+        },
+        "image": {
+          "medium": "bundle://artwork/poster-1015.jpg",
+          "original": "bundle://artwork/poster-1015.jpg"
+        },
+        "summary": "<p>An analyst who only works nights is pulled into the field when the agency's best source goes silent.</p>",
+        "updated": 1791201015,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/1015"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/101501",
+            "name": "Pilot"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 101503,
+    "url": "https://www.tvmaze.com/episodes/101503/nightjar-1x03-rearview",
+    "name": "Rearview",
+    "season": 1,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "",
+    "airstamp": "2026-10-08T12:00:00+00:00",
+    "runtime": 47,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>With the clock running out, Mara goes looking for answers in the last place anyone would expect.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/101503"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1015",
+        "name": "Nightjar"
+      }
+    },
+    "_embedded": {
+      "show": {
+        "id": 1015,
+        "url": "https://www.tvmaze.com/shows/1015/nightjar",
+        "name": "Nightjar",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+          "Thriller",
+          "Espionage"
+        ],
+        "status": "Running",
+        "runtime": 47,
+        "averageRuntime": 47,
+        "premiered": "2026-10-08",
+        "ended": null,
+        "officialSite": "https://nightjar.example/",
+        "schedule": {
+          "time": "",
+          "days": []
+        },
+        "rating": {
+          "average": 8.1
+        },
+        "weight": 89,
+        "network": null,
+        "webChannel": {
+          "id": 9101,
+          "name": "Lumen+",
+          "country": null,
+          "officialSite": "https://lumen.example/"
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 498115,
+          "imdb": "tt9900115"
+        },
+        "image": {
+          "medium": "bundle://artwork/poster-1015.jpg",
+          "original": "bundle://artwork/poster-1015.jpg"
+        },
+        "summary": "<p>An analyst who only works nights is pulled into the field when the agency's best source goes silent.</p>",
+        "updated": 1791201015,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/1015"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/101501",
+            "name": "Pilot"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 101504,
+    "url": "https://www.tvmaze.com/episodes/101504/nightjar-1x04-daylight",
+    "name": "Daylight",
+    "season": 1,
+    "number": 4,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "",
+    "airstamp": "2026-10-08T12:00:00+00:00",
+    "runtime": 47,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>Old loyalties are tested when Wes finds out what really happened that night.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/101504"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1015",
+        "name": "Nightjar"
+      }
+    },
+    "_embedded": {
+      "show": {
+        "id": 1015,
+        "url": "https://www.tvmaze.com/shows/1015/nightjar",
+        "name": "Nightjar",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+          "Thriller",
+          "Espionage"
+        ],
+        "status": "Running",
+        "runtime": 47,
+        "averageRuntime": 47,
+        "premiered": "2026-10-08",
+        "ended": null,
+        "officialSite": "https://nightjar.example/",
+        "schedule": {
+          "time": "",
+          "days": []
+        },
+        "rating": {
+          "average": 8.1
+        },
+        "weight": 89,
+        "network": null,
+        "webChannel": {
+          "id": 9101,
+          "name": "Lumen+",
+          "country": null,
+          "officialSite": "https://lumen.example/"
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 498115,
+          "imdb": "tt9900115"
+        },
+        "image": {
+          "medium": "bundle://artwork/poster-1015.jpg",
+          "original": "bundle://artwork/poster-1015.jpg"
+        },
+        "summary": "<p>An analyst who only works nights is pulled into the field when the agency's best source goes silent.</p>",
+        "updated": 1791201015,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/1015"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/101501",
+            "name": "Pilot"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 101505,
+    "url": "https://www.tvmaze.com/episodes/101505/nightjar-1x05-afterglow",
+    "name": "Afterglow",
+    "season": 1,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "",
+    "airstamp": "2026-10-08T12:00:00+00:00",
+    "runtime": 47,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>A routine day turns into anything but, and Lou has to make a call that changes everything.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/101505"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1015",
+        "name": "Nightjar"
+      }
+    },
+    "_embedded": {
+      "show": {
+        "id": 1015,
+        "url": "https://www.tvmaze.com/shows/1015/nightjar",
+        "name": "Nightjar",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+          "Thriller",
+          "Espionage"
+        ],
+        "status": "Running",
+        "runtime": 47,
+        "averageRuntime": 47,
+        "premiered": "2026-10-08",
+        "ended": null,
+        "officialSite": "https://nightjar.example/",
+        "schedule": {
+          "time": "",
+          "days": []
+        },
+        "rating": {
+          "average": 8.1
+        },
+        "weight": 89,
+        "network": null,
+        "webChannel": {
+          "id": 9101,
+          "name": "Lumen+",
+          "country": null,
+          "officialSite": "https://lumen.example/"
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 498115,
+          "imdb": "tt9900115"
+        },
+        "image": {
+          "medium": "bundle://artwork/poster-1015.jpg",
+          "original": "bundle://artwork/poster-1015.jpg"
+        },
+        "summary": "<p>An analyst who only works nights is pulled into the field when the agency's best source goes silent.</p>",
+        "updated": 1791201015,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/1015"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/101501",
+            "name": "Pilot"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 101506,
+    "url": "https://www.tvmaze.com/episodes/101506/nightjar-1x06-old-debts",
+    "name": "Old Debts",
+    "season": 1,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2026-10-08",
+    "airtime": "",
+    "airstamp": "2026-10-08T12:00:00+00:00",
+    "runtime": 47,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": "<p>Old loyalties are tested when Cole finds out what really happened that night.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/101506"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/1015",
+        "name": "Nightjar"
+      }
+    },
+    "_embedded": {
+      "show": {
+        "id": 1015,
+        "url": "https://www.tvmaze.com/shows/1015/nightjar",
+        "name": "Nightjar",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+          "Thriller",
+          "Espionage"
+        ],
+        "status": "Running",
+        "runtime": 47,
+        "averageRuntime": 47,
+        "premiered": "2026-10-08",
+        "ended": null,
+        "officialSite": "https://nightjar.example/",
+        "schedule": {
+          "time": "",
+          "days": []
+        },
+        "rating": {
+          "average": 8.1
+        },
+        "weight": 89,
+        "network": null,
+        "webChannel": {
+          "id": 9101,
+          "name": "Lumen+",
+          "country": null,
+          "officialSite": "https://lumen.example/"
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 498115,
+          "imdb": "tt9900115"
+        },
+        "image": {
+          "medium": "bundle://artwork/poster-1015.jpg",
+          "original": "bundle://artwork/poster-1015.jpg"
+        },
+        "summary": "<p>An analyst who only works nights is pulled into the field when the agency's best source goes silent.</p>",
+        "updated": 1791201015,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/1015"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/101501",
+            "name": "Pilot"
+          }
+        }
+      }
+    }
+  }
+]

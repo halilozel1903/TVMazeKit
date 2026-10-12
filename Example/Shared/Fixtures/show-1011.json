@@ -1,0 +1,387 @@
+{
+  "id": 1011,
+  "url": "https://www.tvmaze.com/shows/1011/wild-coastlines",
+  "name": "Wild Coastlines",
+  "type": "Documentary",
+  "language": "English",
+  "genres": [
+    "Nature",
+    "Travel"
+  ],
+  "status": "Running",
+  "runtime": 50,
+  "averageRuntime": 50,
+  "premiered": "2026-09-03",
+  "ended": null,
+  "officialSite": "https://wild-coastlines.example/",
+  "schedule": {
+    "time": "19:00",
+    "days": [
+      "Thursday"
+    ]
+  },
+  "rating": {
+    "average": 8.5
+  },
+  "weight": 76,
+  "network": {
+    "id": 9003,
+    "name": "Atlas Channel",
+    "country": {
+      "name": "United States",
+      "code": "US",
+      "timezone": "America/New_York"
+    },
+    "officialSite": "https://atlas.example/"
+  },
+  "webChannel": null,
+  "dvdCountry": null,
+  "externals": {
+    "tvrage": null,
+    "thetvdb": 498111,
+    "imdb": "tt9900111"
+  },
+  "image": {
+    "medium": "bundle://artwork/poster-1011.jpg",
+    "original": "bundle://artwork/poster-1011.jpg"
+  },
+  "summary": "<p>A year on the world's most restless shores, from tidal pools to storm-carved cliffs.</p>",
+  "updated": 1791201011,
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/shows/1011"
+    },
+    "previousepisode": {
+      "href": "https://api.tvmaze.com/episodes/101105",
+      "name": "Small Hours"
+    },
+    "nextepisode": {
+      "href": "https://api.tvmaze.com/episodes/101106",
+      "name": "Signal Fire"
+    }
+  },
+  "_embedded": {
+    "cast": [
+      {
+        "person": {
+          "id": 2058,
+          "url": "https://www.tvmaze.com/people/2058/jonas-haddad",
+          "name": "Jonas Haddad",
+          "country": {
+            "name": "Germany",
+            "code": "DE",
+            "timezone": "Europe/Berlin"
+          },
+          "birthday": "1961-02-23",
+          "deathday": null,
+          "gender": "Female",
+          "image": {
+            "medium": "bundle://artwork/person-2058.jpg",
+            "original": "bundle://artwork/person-2058.jpg"
+          },
+          "updated": 1790002058,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2058"
+            }
+          }
+        },
+        "character": {
+          "id": 3046,
+          "url": "https://www.tvmaze.com/characters/3046/wild-coastlines-self",
+          "name": "Self",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3046"
+            }
+          }
+        },
+        "self": true,
+        "voice": false
+      },
+      {
+        "person": {
+          "id": 2059,
+          "url": "https://www.tvmaze.com/people/2059/marcus-osei",
+          "name": "Marcus Osei",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "birthday": "1963-08-14",
+          "deathday": null,
+          "gender": "Male",
+          "image": {
+            "medium": "bundle://artwork/person-2059.jpg",
+            "original": "bundle://artwork/person-2059.jpg"
+          },
+          "updated": 1790002059,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2059"
+            }
+          }
+        },
+        "character": {
+          "id": 3047,
+          "url": "https://www.tvmaze.com/characters/3047/wild-coastlines-narrator",
+          "name": "Narrator",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3047"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      },
+      {
+        "person": {
+          "id": 2060,
+          "url": "https://www.tvmaze.com/people/2060/tomas-drummond",
+          "name": "Tomas Drummond",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "birthday": "1981-02-16",
+          "deathday": null,
+          "gender": "Male",
+          "image": {
+            "medium": "bundle://artwork/person-2060.jpg",
+            "original": "bundle://artwork/person-2060.jpg"
+          },
+          "updated": 1790002060,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/people/2060"
+            }
+          }
+        },
+        "character": {
+          "id": 3048,
+          "url": "https://www.tvmaze.com/characters/3048/wild-coastlines-narrator",
+          "name": "Narrator",
+          "image": null,
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/characters/3048"
+            }
+          }
+        },
+        "self": false,
+        "voice": false
+      }
+    ],
+    "seasons": [
+      {
+        "id": 60111,
+        "url": "https://www.tvmaze.com/seasons/60111/wild-coastlines-season-1",
+        "number": 1,
+        "name": "",
+        "episodeOrder": 6,
+        "premiereDate": "2026-09-03",
+        "endDate": "2026-10-08",
+        "network": {
+          "id": 9003,
+          "name": "Atlas Channel",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "officialSite": "https://atlas.example/"
+        },
+        "webChannel": null,
+        "image": null,
+        "summary": null,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/seasons/60111"
+          }
+        }
+      }
+    ],
+    "episodes": [
+      {
+        "id": 101101,
+        "url": "https://www.tvmaze.com/episodes/101101/wild-coastlines-1x01-pilot",
+        "name": "Pilot",
+        "season": 1,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2026-09-03",
+        "airtime": "19:00",
+        "airstamp": "2026-09-03T23:00:00+00:00",
+        "runtime": 50,
+        "rating": {
+          "average": 8.3
+        },
+        "image": null,
+        "summary": "<p>Nora gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/101101"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1011",
+            "name": "Wild Coastlines"
+          }
+        }
+      },
+      {
+        "id": 101102,
+        "url": "https://www.tvmaze.com/episodes/101102/wild-coastlines-1x02-daylight",
+        "name": "Daylight",
+        "season": 1,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2026-09-10",
+        "airtime": "19:00",
+        "airstamp": "2026-09-10T23:00:00+00:00",
+        "runtime": 50,
+        "rating": {
+          "average": 8.9
+        },
+        "image": null,
+        "summary": "<p>A routine day turns into anything but, and Nora has to make a call that changes everything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/101102"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1011",
+            "name": "Wild Coastlines"
+          }
+        }
+      },
+      {
+        "id": 101103,
+        "url": "https://www.tvmaze.com/episodes/101103/wild-coastlines-1x03-afterglow",
+        "name": "Afterglow",
+        "season": 1,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2026-09-17",
+        "airtime": "19:00",
+        "airstamp": "2026-09-17T23:00:00+00:00",
+        "runtime": 50,
+        "rating": {
+          "average": 7.9
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Sam goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/101103"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1011",
+            "name": "Wild Coastlines"
+          }
+        }
+      },
+      {
+        "id": 101104,
+        "url": "https://www.tvmaze.com/episodes/101104/wild-coastlines-1x04-old-debts",
+        "name": "Old Debts",
+        "season": 1,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2026-09-24",
+        "airtime": "19:00",
+        "airstamp": "2026-09-24T23:00:00+00:00",
+        "runtime": 50,
+        "rating": {
+          "average": 8.3
+        },
+        "image": null,
+        "summary": "<p>With the clock running out, Lou goes looking for answers in the last place anyone would expect.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/101104"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1011",
+            "name": "Wild Coastlines"
+          }
+        }
+      },
+      {
+        "id": 101105,
+        "url": "https://www.tvmaze.com/episodes/101105/wild-coastlines-1x05-small-hours",
+        "name": "Small Hours",
+        "season": 1,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2026-10-01",
+        "airtime": "19:00",
+        "airstamp": "2026-10-01T23:00:00+00:00",
+        "runtime": 50,
+        "rating": {
+          "average": 8.9
+        },
+        "image": null,
+        "summary": "<p>Abe gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/101105"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1011",
+            "name": "Wild Coastlines"
+          }
+        }
+      },
+      {
+        "id": 101106,
+        "url": "https://www.tvmaze.com/episodes/101106/wild-coastlines-1x06-signal-fire",
+        "name": "Signal Fire",
+        "season": 1,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2026-10-08",
+        "airtime": "19:00",
+        "airstamp": "2026-10-08T23:00:00+00:00",
+        "runtime": 50,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": "<p>Sam gets an unexpected visitor with a proposal that is hard to refuse.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/101106"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/1011",
+            "name": "Wild Coastlines"
+          }
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 701011,
+        "type": "poster",
+        "main": true,
+        "resolutions": {
+          "original": {
+            "url": "bundle://artwork/poster-1011.jpg",
+            "width": 680,
+            "height": 1000
+          },
+          "medium": {
+            "url": "bundle://artwork/poster-1011.jpg",
+            "width": 210,
+            "height": 295
+          }
+        }
+      }
+    ]
+  }
+}

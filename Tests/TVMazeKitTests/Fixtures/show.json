@@ -1,0 +1,64 @@
+{
+  "id": 1001,
+  "url": "https://www.tvmaze.com/shows/1001/the-long-static",
+  "name": "The Long Static",
+  "type": "Scripted",
+  "language": "English",
+  "genres": [
+    "Drama",
+    "Science-Fiction",
+    "Mystery"
+  ],
+  "status": "Running",
+  "runtime": 52,
+  "averageRuntime": 52,
+  "premiered": "2025-01-16",
+  "ended": null,
+  "officialSite": "https://the-long-static.example/",
+  "schedule": {
+    "time": "21:00",
+    "days": [
+      "Thursday"
+    ]
+  },
+  "rating": {
+    "average": 8.6
+  },
+  "weight": 97,
+  "network": {
+    "id": 9001,
+    "name": "Northwind",
+    "country": {
+      "name": "United States",
+      "code": "US",
+      "timezone": "America/New_York"
+    },
+    "officialSite": "https://northwind.example/"
+  },
+  "webChannel": null,
+  "dvdCountry": null,
+  "externals": {
+    "tvrage": null,
+    "thetvdb": 498101,
+    "imdb": "tt9900101"
+  },
+  "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/450/901001.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/450/901001.jpg"
+  },
+  "summary": "<p><b>The Long Static</b> follows the night shift at Halvard Station, a polar research outpost where radio operator Maren Holt hears a voice on a frequency nobody has used in forty years. As a storm cuts the station off from the mainland, the crew has to decide whether the signal is a warning &mdash; or an invitation.</p>",
+  "updated": 1791201001,
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/shows/1001"
+    },
+    "previousepisode": {
+      "href": "https://api.tvmaze.com/episodes/100112",
+      "name": "The Relay"
+    },
+    "nextepisode": {
+      "href": "https://api.tvmaze.com/episodes/100113",
+      "name": "Interference"
+    }
+  }
+}

@@ -91,8 +91,10 @@ struct ClientTests {
 
     @Test func episodeByNumber() async throws {
         let stub = StubbedClient { request in
-            let query = request.url?.query ?? ""
-            return try query.contains("number=5") ? .json("episode") : .status(404)
+            let number = request.url
+                .flatMap { URLComponents(url: $0, resolvingAgainstBaseURL: false) }?
+                .queryItems?.first { $0.name == "number" }?.value
+            return try number == "5" ? .json("episode") : .status(404)
         }
 
         let episode = try await stub.client.episode(showID: 1001, season: 2, number: 5)

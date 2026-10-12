@@ -35,6 +35,15 @@ public struct ScheduleSlot: Hashable, Sendable, Identifiable {
     public var episodeCount: Int { entries.reduce(0) { $0 + $1.episodes.count } }
 }
 
+/// Collects one time slot's shows and episodes while `scheduleSlots()` groups a schedule.
+private struct ScheduleBucket {
+    var time: AirTime?
+    var earliest: Date?
+    var order: [Int] = []
+    var shows: [Int: Show] = [:]
+    var episodes: [Int: [Episode]] = [:]
+}
+
 extension Array where Element == Episode {
     /// Groups schedule episodes (from `/schedule` or `/schedule/web`) into time slots.
     ///
@@ -43,22 +52,14 @@ extension Array where Element == Episode {
     /// one entry, and entries are ordered by popularity (`weight`), then by name. Episodes without
     /// an embedded show are left out.
     public func scheduleSlots() -> [ScheduleSlot] {
-        struct Bucket {
-            var time: AirTime?
-            var earliest: Date?
-            var order: [Int] = []
-            var shows: [Int: Show] = [:]
-            var episodes: [Int: [Episode]] = [:]
-        }
-
-        var buckets: [String: Bucket] = [:]
+        var buckets: [String: ScheduleBucket] = [:]
         var keys: [String] = []
         for episode in self {
             guard let show = episode.show else { continue }
             let time = episode.airTime
             let key = time?.description ?? ""
             if buckets[key] == nil {
-                buckets[key] = Bucket(time: time)
+                buckets[key] = ScheduleBucket(time: time)
                 keys.append(key)
             }
             var bucket = buckets[key]!
